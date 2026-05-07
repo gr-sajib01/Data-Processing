@@ -1,0 +1,1001 @@
+Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Sales,Total,Date,Payment,Rating
+West,Madurai,Member,Male,Fruits & Veggies,87.17,6,26.15,523,549.15,12-03-2018,Credit card,9.0
+Central,Nagercoil,Normal,Female,Beverages,1301.0,1,65.05,1301,1366.05,04-03-2017,Credit card,6.2
+West,Madurai,Normal,Female,Food Grains,288.5,4,57.7,1154,1211.7,11/29/2015,Credit card,9.2
+Central,Cumbum,Normal,Female,"Eggs, Meat & Fish",409.0,5,102.25,2045,2147.25,12/27/2016,Cash,6.4
+West,Ooty,Normal,Male,Beverages,213.0,3,31.95,639,670.95,4/17/2018,Cash,6.0
+East,Chennai,Normal,Male,Snacks,124.56,9,56.05,1121,1177.05,11-01-2015,Cash,6.7
+East,Tenkasi,Normal,Male,"Eggs, Meat & Fish",1229.0,1,61.45,1229,1290.45,11-05-2016,Credit card,8.6
+West,Cumbum,Normal,Female,Fruits & Veggies,229.83,6,68.95,1379,1447.95,11-06-2018,Cash,4.8
+West,Nagercoil,Member,Female,Beverages,325.5,6,97.65,1953,2050.65,5/30/2017,Ewallet,5.2
+East,Ramanadhapuram,Member,Female,Bakery,119.2,5,29.8,596,625.8,9/20/2015,Ewallet,9.7
+West,Bodi,Member,Male,Fruits & Veggies,216.6,5,54.15,1083,1137.15,11/13/2016,Cash,5.1
+East,Chennai,Normal,Female,Snacks,254.4,5,63.6,1272,1335.6,12-08-2018,Ewallet,7.4
+West,Kanyakumari,Normal,Female,Food Grains,415.0,6,124.5,2490,2614.5,9/22/2017,Ewallet,7.5
+West,Kanyakumari,Member,Male,Bakery,133.62,8,53.45,1069,1122.45,11-02-2018,Credit card,6.9
+East,Karur,Normal,Male,Food Grains,749.0,2,74.9,1498,1572.9,5/19/2018,Cash,7.9
+Central,Krishnagiri,Normal,Male,Food Grains,298.67,6,89.6,1792,1881.6,4/18/2015,Cash,5.4
+South,Tenkasi,Member,Male,Beverages,1471.0,1,73.55,1471,1544.55,04-05-2015,Credit card,7.3
+West,Namakkal,Normal,Female,"Eggs, Meat & Fish",328.5,4,65.7,1314,1379.7,6/26/2017,Ewallet,6.2
+Central,Salem,Normal,Male,Food Grains,264.67,3,39.7,794,833.7,06-03-2015,Ewallet,8.0
+South,Perambalur,Member,Male,"Eggs, Meat & Fish",148.56,9,66.85,1337,1403.85,02-11-2015,Cash,4.8
+West,Viluppuram,Normal,Female,Oil & Masala,407.67,3,61.15,1223,1284.15,4/23/2018,Ewallet,7.4
+East,Vellore,Member,Male,"Eggs, Meat & Fish",359.83,6,107.95,2159,2266.95,12/24/2015,Credit card,5.1
+West,Bodi,Normal,Male,"Eggs, Meat & Fish",1514.0,1,75.7,1514,1589.7,3/19/2018,Credit card,5.7
+West,Tirunelveli,Normal,Male,Bakery,285.67,6,85.7,1714,1799.7,11-10-2017,Cash,5.3
+West,Salem,Normal,Male,Fruits & Veggies,565.75,4,113.15,2263,2376.15,7/25/2015,Credit card,5.1
+South,Tirunelveli,Member,Female,Snacks,67.0,8,26.8,536,562.8,11/23/2018,Credit card,9.0
+East,Theni,Normal,Male,Food Grains,241.67,9,108.75,2175,2283.75,3/25/2018,Cash,5.7
+West,Trichy,Normal,Female,Bakery,198.5,4,39.7,794,833.7,8/17/2016,Credit card,9.6
+East,Virudhunagar,Member,Female,Oil & Masala,128.83,6,38.65,773,811.65,05-07-2017,Credit card,9.8
+West,Pudukottai,Normal,Male,Beverages,2103.0,1,105.15,2103,2208.15,1/21/2018,Credit card,7.4
+East,Tenkasi,Member,Female,Food Grains,265.75,4,53.15,1063,1116.15,10-01-2016,Ewallet,4.9
+Central,Pudukottai,Normal,Male,Bakery,320.71,7,112.25,2245,2357.25,07-11-2015,Cash,6.2
+East,Tirunelveli,Member,Male,Oil & Masala,1620.0,1,81.0,1620,1701.0,08-04-2015,Cash,8.8
+West,Nagercoil,Member,Female,Oil & Masala,229.88,8,91.95,1839,1930.95,05-11-2016,Cash,6.2
+South,Tirunelveli,Member,Female,Fruits & Veggies,396.83,6,119.05,2381,2500.05,08-04-2017,Ewallet,4.5
+West,Nagercoil,Normal,Female,Beverages,353.0,5,88.25,1765,1853.25,11-02-2015,Ewallet,7.3
+Central,Tirunelveli,Member,Male,"Eggs, Meat & Fish",140.56,9,63.25,1265,1328.25,12-08-2017,Cash,9.1
+South,Ooty,Normal,Male,"Eggs, Meat & Fish",498.0,2,49.8,996,1045.8,7/16/2017,Ewallet,8.8
+West,Dharmapuri,Member,Female,Oil & Masala,500.0,5,125.0,2500,2625.0,1/30/2016,Cash,5.1
+East,Tirunelveli,Member,Male,"Eggs, Meat & Fish",97.33,6,29.2,584,613.2,7/23/2016,Ewallet,8.0
+South,Dindigul,Normal,Male,Bakery,237.14,7,83.0,1660,1743.0,08-12-2017,Credit card,5.3
+West,Chennai,Normal,Female,Snacks,275.0,5,68.75,1375,1443.75,09-05-2017,Credit card,5.3
+West,Karur,Member,Male,"Eggs, Meat & Fish",185.11,9,83.3,1666,1749.3,7/25/2016,Cash,9.2
+West,Trichy,Normal,Female,Fruits & Veggies,2082.0,1,104.1,2082,2186.1,12-01-2016,Ewallet,5.5
+South,Kanyakumari,Normal,Male,Oil & Masala,141.14,7,49.4,988,1037.4,12/24/2018,Ewallet,5.6
+West,Nagercoil,Normal,Female,Oil & Masala,244.57,7,85.6,1712,1797.6,3/25/2018,Credit card,4.0
+South,Namakkal,Member,Male,Snacks,140.5,4,28.1,562,590.1,03-08-2018,Credit card,9.2
+South,Tenkasi,Member,Female,Oil & Masala,277.0,9,124.65,2493,2617.65,05-09-2017,Ewallet,8.8
+West,Chennai,Normal,Female,Fruits & Veggies,445.2,5,111.3,2226,2337.3,05-09-2018,Ewallet,7.8
+Central,Trichy,Member,Male,Snacks,505.75,4,101.15,2023,2124.15,06-12-2017,Ewallet,8.5
+East,Pudukottai,Normal,Female,Oil & Masala,236.71,7,82.85,1657,1739.85,05-08-2017,Ewallet,4.9
+West,Vellore,Normal,Female,Snacks,369.75,4,73.95,1479,1552.95,12-08-2015,Ewallet,6.7
+East,Bodi,Normal,Female,Fruits & Veggies,509.0,3,76.35,1527,1603.35,2/21/2017,Ewallet,6.1
+West,Ramanadhapuram,Normal,Female,Snacks,162.22,9,73.0,1460,1533.0,6/23/2016,Cash,4.6
+West,Chennai,Normal,Female,Bakery,294.62,8,117.85,2357,2474.85,11-04-2017,Ewallet,6.9
+East,Perambalur,Member,Female,Beverages,1840.0,1,92.0,1840,1932.0,11-08-2016,Credit card,9.5
+West,Chennai,Normal,Male,Snacks,224.57,7,78.6,1572,1650.6,9/22/2018,Cash,4.2
+West,Coimbatore,Member,Male,Fruits & Veggies,106.56,9,47.95,959,1006.95,7/26/2015,Ewallet,5.7
+Central,Namakkal,Member,Male,Bakery,70.12,8,28.05,561,589.05,11/29/2016,Credit card,5.2
+East,Ramanadhapuram,Normal,Male,Oil & Masala,253.5,8,101.4,2028,2129.4,9/29/2018,Cash,5.4
+West,Madurai,Normal,Male,Oil & Masala,120.0,6,36.0,720,756.0,10/25/2016,Credit card,9.5
+South,Ooty,Normal,Male,Fruits & Veggies,221.5,4,44.3,886,930.3,3/27/2018,Ewallet,6.8
+South,Nagercoil,Normal,Female,Fruits & Veggies,96.5,8,38.6,772,810.6,12/25/2017,Ewallet,6.8
+West,Tenkasi,Member,Male,Food Grains,652.67,3,97.9,1958,2055.9,9/24/2016,Ewallet,8.6
+West,Ooty,Member,Male,Snacks,211.33,9,95.1,1902,1997.1,09-07-2018,Ewallet,4.9
+East,Theni,Normal,Female,Food Grains,857.5,2,85.75,1715,1800.75,1/14/2015,Cash,6.9
+West,Ramanadhapuram,Member,Male,Oil & Masala,1061.0,2,106.1,2122,2228.1,5/20/2018,Cash,6.6
+East,Tirunelveli,Member,Female,"Eggs, Meat & Fish",212.43,7,74.35,1487,1561.35,05-12-2017,Credit card,7.6
+East,Perambalur,Member,Male,Fruits & Veggies,451.25,4,90.25,1805,1895.25,1/20/2018,Ewallet,10.0
+West,Pudukottai,Member,Female,Food Grains,289.88,8,115.95,2319,2434.95,11/19/2018,Credit card,8.6
+East,Theni,Member,Female,Beverages,199.0,9,89.55,1791,1880.55,1/19/2018,Cash,6.4
+South,Trichy,Member,Male,"Eggs, Meat & Fish",328.29,7,114.9,2298,2412.9,3/21/2015,Ewallet,9.0
+South,Krishnagiri,Member,Male,Food Grains,265.6,5,66.4,1328,1394.4,12/16/2015,Ewallet,5.0
+East,Dindigul,Member,Female,"Eggs, Meat & Fish",77.25,8,30.9,618,648.9,9/20/2018,Cash,4.2
+West,Karur,Normal,Female,Beverages,195.5,4,39.1,782,821.1,12/21/2015,Cash,5.2
+West,Dindigul,Member,Female,Fruits & Veggies,304.5,2,30.45,609,639.45,07-03-2017,Cash,6.0
+Central,Vellore,Member,Female,Snacks,338.5,6,101.55,2031,2132.55,5/30/2015,Cash,7.1
+Central,Trichy,Normal,Male,Snacks,70.67,9,31.8,636,667.8,02-06-2016,Cash,7.7
+East,Coimbatore,Member,Male,Bakery,1907.0,1,95.35,1907,2002.35,12-04-2016,Ewallet,9.5
+South,Pudukottai,Normal,Male,Bakery,168.29,7,58.9,1178,1236.9,06-08-2016,Cash,7.1
+South,Ooty,Normal,Female,Beverages,151.78,9,68.3,1366,1434.3,11-02-2016,Ewallet,7.0
+West,Tenkasi,Member,Female,Snacks,163.11,9,73.4,1468,1541.4,04-06-2015,Ewallet,4.3
+East,Madurai,Member,Male,Bakery,584.0,3,87.6,1752,1839.6,11/30/2018,Cash,4.2
+Central,Ramanadhapuram,Normal,Male,"Eggs, Meat & Fish",258.4,5,64.6,1292,1356.6,12-05-2018,Cash,7.3
+East,Nagercoil,Normal,Male,Fruits & Veggies,70.88,8,28.35,567,595.35,12-05-2018,Ewallet,6.6
+West,Vellore,Member,Male,"Eggs, Meat & Fish",209.5,8,83.8,1676,1759.8,05-04-2018,Cash,9.0
+West,Namakkal,Normal,Female,Snacks,354.75,4,70.95,1419,1489.95,11-03-2018,Cash,5.0
+East,Virudhunagar,Member,Female,Fruits & Veggies,1313.0,1,65.65,1313,1378.65,12-04-2017,Cash,4.1
+Central,Perambalur,Normal,Female,Food Grains,824.0,1,41.2,824,865.2,1/13/2018,Credit card,6.7
+Central,Coimbatore,Member,Male,Oil & Masala,489.0,4,97.8,1956,2053.8,05-02-2017,Ewallet,5.4
+Central,Bodi,Normal,Male,Bakery,389.67,6,116.9,2338,2454.9,12/17/2016,Credit card,4.3
+West,Karur,Normal,Female,Oil & Masala,230.88,8,92.35,1847,1939.35,8/21/2018,Cash,8.3
+South,Nagercoil,Normal,Female,Food Grains,84.83,6,25.45,509,534.45,02-05-2017,Credit card,4.7
+South,Cumbum,Normal,Female,Food Grains,209.0,9,94.05,1881,1975.05,11-03-2018,Cash,7.6
+South,Vellore,Member,Female,Snacks,235.22,9,105.85,2117,2222.85,10-10-2017,Credit card,5.7
+East,Krishnagiri,Member,Female,Oil & Masala,962.5,2,96.25,1925,2021.25,5/18/2018,Cash,5.0
+East,Salem,Member,Female,Bakery,2114.0,1,105.7,2114,2219.7,12-01-2018,Credit card,6.3
+West,Perambalur,Member,Male,Oil & Masala,938.5,2,93.85,1877,1970.85,9/26/2016,Credit card,8.8
+South,Salem,Normal,Male,Bakery,375.8,5,93.95,1879,1972.95,10/28/2017,Credit card,6.4
+South,Salem,Member,Male,Beverages,240.25,4,48.05,961,1009.05,10-11-2015,Ewallet,8.5
+West,Coimbatore,Member,Male,Bakery,537.5,4,107.5,2150,2257.5,9/21/2015,Credit card,4.8
+West,Perambalur,Normal,Female,Fruits & Veggies,260.11,9,117.05,2341,2458.05,09-05-2016,Ewallet,8.6
+East,Ooty,Normal,Male,Snacks,87.5,8,35.0,700,735.0,12-06-2016,Cash,5.4
+West,Kanyakumari,Normal,Female,Fruits & Veggies,320.0,6,96.0,1920,2016.0,2/21/2017,Credit card,8.1
+South,Vellore,Normal,Female,Bakery,1501.0,1,75.05,1501,1576.05,04-04-2015,Cash,7.4
+South,Viluppuram,Member,Male,Bakery,565.0,2,56.5,1130,1186.5,6/15/2018,Cash,9.6
+South,Coimbatore,Member,Male,Bakery,321.0,6,96.3,1926,2022.3,5/26/2016,Credit card,6.3
+Central,Trichy,Normal,Female,Beverages,1216.5,2,121.65,2433,2554.65,3/17/2015,Ewallet,4.4
+West,Vellore,Normal,Male,Snacks,483.4,5,120.85,2417,2537.85,09-12-2017,Credit card,4.1
+West,Karur,Member,Male,Snacks,129.6,5,32.4,648,680.4,3/13/2017,Cash,9.0
+East,Kanyakumari,Normal,Male,Oil & Masala,155.17,6,46.55,931,977.55,05-04-2016,Cash,7.1
+Central,Coimbatore,Member,Male,"Eggs, Meat & Fish",191.5,6,57.45,1149,1206.45,7/31/2017,Credit card,8.7
+South,Vellore,Member,Female,Snacks,143.33,6,43.0,860,903.0,01-09-2016,Ewallet,5.4
+East,Tirunelveli,Normal,Female,Snacks,622.5,2,62.25,1245,1307.25,11/19/2018,Ewallet,6.1
+East,Dindigul,Normal,Female,Snacks,336.33,3,50.45,1009,1059.45,09-09-2018,Cash,4.2
+South,Perambalur,Normal,Female,Beverages,97.33,6,29.2,584,613.2,5/15/2017,Cash,9.8
+West,Namakkal,Member,Female,Snacks,189.0,8,75.6,1512,1587.6,8/19/2018,Ewallet,8.0
+West,Cumbum,Normal,Male,Snacks,1043.0,1,52.15,1043,1095.15,9/21/2016,Credit card,9.6
+West,Tirunelveli,Member,Female,Beverages,1307.0,1,65.35,1307,1372.35,12/24/2016,Cash,5.6
+Central,Dindigul,Member,Female,Snacks,1035.0,2,103.5,2070,2173.5,09-11-2017,Ewallet,7.7
+West,Karur,Normal,Female,Oil & Masala,255.33,6,76.6,1532,1608.6,09-04-2017,Cash,8.1
+South,Trichy,Normal,Female,Beverages,266.33,9,119.85,2397,2516.85,12/29/2017,Credit card,5.9
+West,Bodi,Normal,Male,Food Grains,187.5,4,37.5,750,787.5,12-01-2018,Ewallet,9.1
+West,Dindigul,Normal,Male,Snacks,757.0,3,113.55,2271,2384.55,03-10-2017,Cash,9.7
+Central,Krishnagiri,Normal,Male,Fruits & Veggies,122.0,8,48.8,976,1024.8,5/25/2016,Credit card,9.3
+South,Cumbum,Normal,Male,Bakery,266.44,9,119.9,2398,2517.9,04-11-2016,Cash,8.4
+South,Salem,Member,Female,"Eggs, Meat & Fish",313.0,5,78.25,1565,1643.25,10-02-2018,Credit card,5.7
+East,Salem,Member,Female,Beverages,260.0,9,117.0,2340,2457.0,9/26/2015,Credit card,5.7
+Central,Krishnagiri,Member,Male,Snacks,442.0,2,44.2,884,928.2,3/30/2016,Ewallet,9.8
+Central,Dharmapuri,Member,Female,Oil & Masala,582.33,3,87.35,1747,1834.35,8/26/2017,Credit card,4.1
+West,Dindigul,Normal,Male,Oil & Masala,183.57,7,64.25,1285,1349.25,12/20/2016,Cash,8.3
+East,Ooty,Member,Male,Food Grains,265.14,7,92.8,1856,1948.8,11-09-2018,Credit card,8.2
+West,Nagercoil,Member,Male,Food Grains,389.17,6,116.75,2335,2451.75,12-06-2017,Credit card,7.7
+West,Madurai,Member,Male,Fruits & Veggies,144.67,6,43.4,868,911.4,11/13/2018,Ewallet,9.9
+West,Ooty,Normal,Female,Food Grains,765.5,2,76.55,1531,1607.55,8/21/2016,Credit card,5.9
+East,Cumbum,Member,Male,"Eggs, Meat & Fish",205.83,6,61.75,1235,1296.75,06-12-2017,Credit card,6.0
+West,Dindigul,Normal,Female,Beverages,132.75,4,26.55,531,557.55,09-11-2017,Cash,4.5
+West,Tirunelveli,Member,Female,Fruits & Veggies,825.33,3,123.8,2476,2599.8,12-12-2016,Ewallet,6.7
+East,Madurai,Member,Male,Oil & Masala,844.5,2,84.45,1689,1773.45,9/17/2016,Ewallet,5.6
+West,Nagercoil,Normal,Female,"Eggs, Meat & Fish",1784.0,1,89.2,1784,1873.2,09-11-2016,Ewallet,6.1
+East,Vellore,Normal,Female,Food Grains,230.8,5,57.7,1154,1211.7,5/28/2016,Credit card,9.0
+Central,Madurai,Member,Male,Beverages,381.0,2,38.1,762,800.1,10/21/2017,Ewallet,9.6
+East,Vellore,Normal,Female,Beverages,1123.5,2,112.35,2247,2359.35,10/14/2015,Credit card,5.1
+East,Karur,Normal,Male,Oil & Masala,167.29,7,58.55,1171,1229.55,11-04-2015,Credit card,6.2
+West,Ramanadhapuram,Member,Male,Bakery,80.5,8,32.2,644,676.2,6/27/2017,Cash,9.6
+East,Vellore,Normal,Male,Beverages,123.75,8,49.5,990,1039.5,1/16/2015,Cash,4.4
+South,Viluppuram,Normal,Female,Fruits & Veggies,541.75,4,108.35,2167,2275.35,12/25/2018,Cash,4.6
+Central,Cumbum,Normal,Female,Bakery,2298.0,1,114.9,2298,2412.9,8/29/2018,Cash,5.0
+East,Dindigul,Normal,Male,"Eggs, Meat & Fish",236.57,7,82.8,1656,1738.8,11/30/2018,Cash,7.6
+East,Kanyakumari,Normal,Male,Bakery,902.0,1,45.1,902,947.1,12/13/2018,Credit card,4.9
+West,Tirunelveli,Normal,Female,Beverages,407.5,4,81.5,1630,1711.5,11-01-2016,Credit card,9.8
+East,Dindigul,Normal,Male,Fruits & Veggies,166.38,8,66.55,1331,1397.55,11-11-2015,Ewallet,6.7
+East,Vellore,Normal,Male,Snacks,700.0,2,70.0,1400,1470.0,9/17/2016,Credit card,7.0
+East,Ooty,Normal,Male,Snacks,259.33,6,77.8,1556,1633.8,10/23/2018,Credit card,5.5
+East,Viluppuram,Normal,Female,Bakery,334.5,6,100.35,2007,2107.35,2/16/2017,Cash,6.8
+East,Kanyakumari,Normal,Male,Oil & Masala,109.89,9,49.45,989,1038.45,9/17/2016,Credit card,8.0
+East,Kanyakumari,Member,Female,Beverages,428.0,5,107.0,2140,2247.0,09-05-2017,Cash,8.5
+Central,Theni,Normal,Female,Beverages,578.5,4,115.7,2314,2429.7,09-08-2018,Ewallet,8.5
+East,Ooty,Normal,Male,Bakery,223.6,5,55.9,1118,1173.9,10-12-2018,Ewallet,7.5
+West,Kanyakumari,Member,Female,Bakery,376.6,5,94.15,1883,1977.15,7/14/2018,Credit card,9.4
+South,Cumbum,Normal,Male,Beverages,67.5,8,27.0,540,567.0,11/23/2018,Ewallet,8.9
+West,Viluppuram,Member,Female,Beverages,184.12,8,73.65,1473,1546.65,12/24/2017,Credit card,8.5
+East,Dharmapuri,Member,Female,Bakery,1240.5,2,124.05,2481,2605.05,7/25/2017,Ewallet,4.3
+East,Perambalur,Normal,Female,Snacks,335.43,7,117.4,2348,2465.4,11-05-2018,Cash,4.0
+East,Salem,Member,Male,Bakery,260.75,8,104.3,2086,2190.3,11-11-2017,Cash,5.3
+West,Cumbum,Normal,Female,Snacks,318.0,6,95.4,1908,2003.4,11/24/2016,Cash,8.0
+East,Ramanadhapuram,Normal,Male,Snacks,225.4,5,56.35,1127,1183.35,4/18/2016,Cash,6.5
+East,Namakkal,Normal,Male,Bakery,156.22,9,70.3,1406,1476.3,10/30/2018,Credit card,6.4
+West,Tirunelveli,Member,Male,Snacks,537.67,3,80.65,1613,1693.65,04-04-2015,Ewallet,9.3
+East,Tenkasi,Member,Female,Beverages,176.5,4,35.3,706,741.3,6/25/2016,Credit card,9.4
+East,Krishnagiri,Normal,Female,Oil & Masala,58.33,9,26.25,525,551.25,10/15/2015,Cash,9.5
+Central,Karur,Normal,Male,Oil & Masala,292.0,6,87.6,1752,1839.6,6/13/2017,Credit card,5.9
+West,Vellore,Normal,Female,"Eggs, Meat & Fish",134.25,8,53.7,1074,1127.7,6/17/2018,Ewallet,8.1
+Central,Vellore,Member,Male,"Eggs, Meat & Fish",132.14,7,46.25,925,971.25,11/28/2015,Credit card,5.6
+West,Tenkasi,Normal,Female,Bakery,385.5,2,38.55,771,809.55,11/25/2018,Ewallet,5.1
+South,Vellore,Normal,Male,"Eggs, Meat & Fish",668.67,3,100.3,2006,2106.3,12/28/2018,Credit card,5.1
+East,Theni,Normal,Female,Bakery,1073.0,1,53.65,1073,1126.65,1/13/2015,Ewallet,6.1
+East,Chennai,Member,Male,Food Grains,183.33,9,82.5,1650,1732.5,3/19/2017,Ewallet,6.6
+South,Madurai,Normal,Female,"Eggs, Meat & Fish",299.86,7,104.95,2099,2203.95,11/28/2015,Cash,9.0
+East,Vellore,Normal,Male,Food Grains,1630.0,1,81.5,1630,1711.5,8/22/2017,Ewallet,4.7
+West,Madurai,Normal,Male,Snacks,211.67,3,31.75,635,666.75,1/30/2018,Cash,8.4
+Central,Bodi,Member,Male,Food Grains,329.75,4,65.95,1319,1384.95,7/28/2017,Cash,7.2
+Central,Ooty,Normal,Female,Snacks,452.75,4,90.55,1811,1901.55,09-08-2018,Cash,5.7
+Central,Pudukottai,Normal,Female,Fruits & Veggies,122.0,5,30.5,610,640.5,09-07-2015,Credit card,7.0
+Central,Virudhunagar,Member,Male,Oil & Masala,738.33,3,110.75,2215,2325.75,08-08-2015,Credit card,5.8
+Central,Virudhunagar,Normal,Female,Oil & Masala,777.0,3,116.55,2331,2447.55,3/14/2015,Credit card,7.6
+East,Virudhunagar,Normal,Female,Beverages,1110.0,1,55.5,1110,1165.5,11/19/2015,Credit card,6.6
+West,Tenkasi,Member,Female,Oil & Masala,193.43,7,67.7,1354,1421.7,3/20/2017,Ewallet,5.0
+West,Bodi,Member,Female,Fruits & Veggies,1043.0,1,52.15,1043,1095.15,9/21/2016,Ewallet,4.7
+West,Kanyakumari,Normal,Male,Food Grains,531.5,2,53.15,1063,1116.15,6/25/2018,Credit card,7.3
+Central,Coimbatore,Member,Male,"Eggs, Meat & Fish",575.75,4,115.15,2303,2418.15,09-05-2017,Ewallet,9.4
+East,Ramanadhapuram,Normal,Female,Snacks,338.0,4,67.6,1352,1419.6,11/18/2018,Ewallet,6.1
+West,Cumbum,Member,Female,Fruits & Veggies,360.2,5,90.05,1801,1891.05,3/13/2018,Cash,8.4
+West,Ooty,Normal,Female,Fruits & Veggies,518.5,2,51.85,1037,1088.85,9/24/2017,Cash,8.0
+West,Virudhunagar,Member,Male,"Eggs, Meat & Fish",198.75,4,39.75,795,834.75,2/22/2017,Cash,9.6
+East,Krishnagiri,Normal,Male,Food Grains,1742.0,1,87.1,1742,1829.1,08-03-2015,Cash,8.9
+Central,Vellore,Normal,Female,Snacks,392.0,2,39.2,784,823.2,4/20/2018,Ewallet,7.4
+West,Vellore,Normal,Female,Fruits & Veggies,2018.0,1,100.9,2018,2118.9,11/27/2016,Credit card,7.9
+South,Vellore,Normal,Female,"Eggs, Meat & Fish",419.5,4,83.9,1678,1761.9,06-06-2017,Ewallet,9.4
+South,Vellore,Member,Female,Fruits & Veggies,131.25,4,26.25,525,551.25,02-02-2015,Ewallet,6.4
+South,Dharmapuri,Normal,Female,Food Grains,140.14,7,49.05,981,1030.05,9/18/2018,Ewallet,6.0
+Central,Vellore,Member,Male,Bakery,192.56,9,86.65,1733,1819.65,01-04-2016,Cash,4.1
+East,Trichy,Member,Male,Fruits & Veggies,184.78,9,83.15,1663,1746.15,5/23/2016,Cash,9.0
+East,Krishnagiri,Member,Female,"Eggs, Meat & Fish",435.6,5,108.9,2178,2286.9,9/23/2015,Cash,8.8
+East,Virudhunagar,Member,Female,Food Grains,2092.0,1,104.6,2092,2196.6,7/22/2015,Credit card,4.6
+West,Nagercoil,Normal,Male,Beverages,1936.0,1,96.8,1936,2032.8,10/27/2017,Ewallet,7.5
+Central,Namakkal,Normal,Male,Food Grains,245.33,6,73.6,1472,1545.6,6/26/2018,Credit card,6.8
+West,Chennai,Member,Female,Snacks,437.0,2,43.7,874,917.7,07-07-2017,Cash,4.7
+West,Vellore,Member,Male,Fruits & Veggies,242.88,8,97.15,1943,2040.15,08-02-2017,Credit card,9.9
+East,Salem,Normal,Male,Fruits & Veggies,137.56,9,61.9,1238,1299.9,7/31/2016,Ewallet,5.3
+East,Theni,Member,Female,Fruits & Veggies,400.25,4,80.05,1601,1681.05,11-07-2018,Ewallet,4.4
+West,Namakkal,Member,Female,Bakery,464.2,5,116.05,2321,2437.05,6/25/2015,Cash,7.6
+West,Theni,Member,Female,Fruits & Veggies,153.62,8,61.45,1229,1290.45,9/24/2018,Cash,8.4
+West,Dindigul,Normal,Male,"Eggs, Meat & Fish",646.67,3,97.0,1940,2037.0,12/24/2016,Credit card,4.2
+West,Pudukottai,Normal,Female,Bakery,473.2,5,118.3,2366,2484.3,3/29/2016,Cash,8.0
+West,Nagercoil,Member,Male,Beverages,766.67,3,115.0,2300,2415.0,05-05-2018,Cash,7.2
+South,Coimbatore,Member,Male,Bakery,331.33,3,49.7,994,1043.7,08-12-2015,Ewallet,4.6
+South,Theni,Normal,Female,Beverages,760.33,3,114.05,2281,2395.05,12-11-2016,Cash,5.0
+East,Ramanadhapuram,Normal,Female,Beverages,241.57,7,84.55,1691,1775.55,11/13/2016,Cash,7.4
+Central,Theni,Member,Female,Fruits & Veggies,265.57,7,92.95,1859,1951.95,09-04-2017,Ewallet,5.8
+West,Dindigul,Normal,Female,Oil & Masala,220.14,7,77.05,1541,1618.05,12-11-2017,Ewallet,9.6
+West,Ooty,Member,Female,Beverages,300.62,8,120.25,2405,2525.25,5/26/2015,Credit card,8.9
+East,Madurai,Member,Male,Beverages,220.6,5,55.15,1103,1158.15,11/21/2017,Cash,9.9
+South,Trichy,Normal,Male,Fruits & Veggies,391.2,5,97.8,1956,2053.8,12-10-2016,Ewallet,5.6
+East,Viluppuram,Member,Male,Food Grains,142.0,4,28.4,568,596.4,7/24/2017,Credit card,9.8
+South,Ramanadhapuram,Normal,Male,Beverages,356.14,7,124.65,2493,2617.65,01-09-2016,Credit card,6.6
+South,Krishnagiri,Member,Female,Snacks,159.5,4,31.9,638,669.9,1/26/2018,Cash,6.1
+West,Cumbum,Member,Male,Oil & Masala,950.5,2,95.05,1901,1996.05,02-03-2016,Cash,4.3
+East,Ooty,Normal,Female,Beverages,418.75,4,83.75,1675,1758.75,5/28/2017,Credit card,4.3
+East,Cumbum,Member,Female,Beverages,299.0,8,119.6,2392,2511.6,08-02-2016,Ewallet,8.2
+Central,Tirunelveli,Normal,Female,Fruits & Veggies,205.0,9,92.25,1845,1937.25,6/19/2018,Credit card,6.7
+West,Dindigul,Member,Female,Food Grains,284.67,3,42.7,854,896.7,10/21/2018,Cash,5.4
+Central,Viluppuram,Member,Female,Bakery,294.57,7,103.1,2062,2165.1,8/27/2018,Ewallet,7.7
+South,Salem,Member,Female,Snacks,205.11,9,92.3,1846,1938.3,12-11-2017,Ewallet,5.5
+West,Namakkal,Normal,Male,Food Grains,519.0,4,103.8,2076,2179.8,7/28/2018,Credit card,7.5
+South,Kanyakumari,Member,Female,Beverages,675.67,3,101.35,2027,2128.35,06-12-2017,Cash,6.2
+South,Nagercoil,Normal,Male,Oil & Masala,394.8,5,98.7,1974,2072.7,11/30/2015,Credit card,8.9
+East,Pudukottai,Member,Male,Snacks,818.0,1,40.9,818,858.9,11-10-2017,Credit card,8.9
+West,Pudukottai,Normal,Female,Food Grains,762.0,3,114.3,2286,2400.3,4/13/2016,Credit card,6.9
+South,Tirunelveli,Member,Male,Fruits & Veggies,161.0,8,64.4,1288,1352.4,1/21/2018,Ewallet,6.1
+East,Salem,Normal,Female,Bakery,150.75,8,60.3,1206,1266.3,08-12-2017,Ewallet,6.2
+East,Nagercoil,Normal,Female,Bakery,452.75,4,90.55,1811,1901.55,6/18/2017,Cash,8.8
+West,Perambalur,Normal,Female,Snacks,789.5,2,78.95,1579,1657.95,7/25/2016,Cash,6.0
+West,Ooty,Normal,Male,Food Grains,124.38,8,49.75,995,1044.75,6/14/2017,Credit card,5.3
+Central,Madurai,Normal,Male,Food Grains,266.0,8,106.4,2128,2234.4,1/31/2016,Credit card,4.5
+West,Karur,Normal,Female,Oil & Masala,244.75,4,48.95,979,1027.95,9/20/2015,Credit card,6.8
+West,Pudukottai,Member,Male,Snacks,461.67,3,69.25,1385,1454.25,12-06-2017,Cash,6.9
+South,Viluppuram,Member,Female,Snacks,1000.0,2,100.0,2000,2100.0,12-11-2016,Ewallet,9.0
+Central,Chennai,Normal,Female,"Eggs, Meat & Fish",209.0,9,94.05,1881,1975.05,12/26/2015,Ewallet,5.3
+East,Virudhunagar,Normal,Female,Fruits & Veggies,1486.0,1,74.3,1486,1560.3,07-12-2018,Credit card,6.3
+East,Namakkal,Normal,Male,Food Grains,200.86,7,70.3,1406,1476.3,11-03-2017,Credit card,8.9
+East,Trichy,Member,Male,Fruits & Veggies,263.6,5,65.9,1318,1383.9,5/22/2017,Credit card,8.9
+East,Chennai,Member,Female,"Eggs, Meat & Fish",148.5,8,59.4,1188,1247.4,11/18/2015,Credit card,6.3
+West,Kanyakumari,Member,Male,Fruits & Veggies,620.0,4,124.0,2480,2604.0,08-12-2018,Cash,6.8
+Central,Ramanadhapuram,Normal,Male,Food Grains,240.43,7,84.15,1683,1767.15,9/17/2018,Ewallet,5.8
+West,Madurai,Member,Female,Food Grains,442.6,5,110.65,2213,2323.65,12/29/2015,Credit card,9.6
+South,Nagercoil,Member,Female,Snacks,196.6,5,49.15,983,1032.15,3/18/2015,Cash,4.7
+West,Chennai,Member,Female,"Eggs, Meat & Fish",82.22,9,37.0,740,777.0,12-07-2016,Credit card,9.6
+Central,Krishnagiri,Member,Female,Food Grains,98.33,9,44.25,885,929.25,04-04-2016,Credit card,8.1
+West,Theni,Normal,Male,Oil & Masala,185.33,9,83.4,1668,1751.4,10-01-2018,Ewallet,7.2
+South,Perambalur,Member,Female,Fruits & Veggies,276.67,6,83.0,1660,1743.0,11/28/2017,Credit card,4.2
+South,Nagercoil,Normal,Female,Food Grains,88.5,6,26.55,531,557.55,9/22/2017,Ewallet,6.9
+West,Salem,Member,Male,Snacks,299.4,5,74.85,1497,1571.85,02-06-2018,Ewallet,6.4
+East,Chennai,Member,Female,Snacks,210.89,9,94.9,1898,1992.9,11/24/2015,Ewallet,5.0
+East,Karur,Member,Female,Food Grains,234.25,8,93.7,1874,1967.7,6/21/2015,Cash,7.9
+West,Kanyakumari,Member,Female,Bakery,177.71,7,62.2,1244,1306.2,04-08-2017,Cash,9.8
+East,Pudukottai,Member,Female,Fruits & Veggies,225.57,7,78.95,1579,1657.95,7/15/2018,Ewallet,7.4
+West,Coimbatore,Member,Female,"Eggs, Meat & Fish",99.17,6,29.75,595,624.75,1/22/2018,Credit card,8.3
+Central,Vellore,Normal,Male,"Eggs, Meat & Fish",206.4,5,51.6,1032,1083.6,5/29/2018,Ewallet,4.4
+South,Madurai,Member,Male,Snacks,383.25,4,76.65,1533,1609.65,1/17/2016,Credit card,6.5
+West,Vellore,Normal,Female,Bakery,202.33,3,30.35,607,637.35,3/30/2018,Ewallet,4.7
+East,Krishnagiri,Normal,Female,Beverages,258.0,3,38.7,774,812.7,12-01-2018,Credit card,7.7
+West,Vellore,Normal,Female,Oil & Masala,396.83,6,119.05,2381,2500.05,7/21/2018,Cash,9.6
+East,Tenkasi,Member,Female,"Eggs, Meat & Fish",426.75,4,85.35,1707,1792.35,11/14/2015,Credit card,8.0
+East,Bodi,Member,Female,Oil & Masala,399.83,6,119.95,2399,2518.95,05-03-2016,Ewallet,4.5
+South,Vellore,Member,Female,Beverages,746.33,3,111.95,2239,2350.95,1/13/2015,Cash,6.1
+West,Dharmapuri,Member,Female,Food Grains,517.25,4,103.45,2069,2172.45,09-08-2016,Credit card,7.3
+Central,Dindigul,Normal,Female,Snacks,136.44,9,61.4,1228,1289.4,5/23/2018,Credit card,6.4
+Central,Perambalur,Member,Female,Bakery,422.2,5,105.55,2111,2216.55,04-05-2017,Credit card,9.0
+West,Krishnagiri,Member,Female,Beverages,217.14,7,76.0,1520,1596.0,1/13/2015,Credit card,8.9
+East,Ramanadhapuram,Normal,Female,Snacks,1062.5,2,106.25,2125,2231.25,04-12-2018,Credit card,7.7
+South,Pudukottai,Normal,Male,Fruits & Veggies,158.6,5,39.65,793,832.65,10/20/2018,Cash,6.2
+Central,Krishnagiri,Normal,Male,Snacks,149.56,9,67.3,1346,1413.3,04-02-2016,Cash,5.5
+Central,Kanyakumari,Member,Male,"Eggs, Meat & Fish",336.67,3,50.5,1010,1060.5,07-03-2018,Cash,4.6
+West,Viluppuram,Member,Female,Food Grains,137.56,9,61.9,1238,1299.9,3/13/2018,Cash,6.1
+East,Ooty,Normal,Male,Oil & Masala,189.83,6,56.95,1139,1195.95,12-04-2018,Ewallet,6.5
+West,Viluppuram,Member,Male,"Eggs, Meat & Fish",608.0,4,121.6,2432,2553.6,11-03-2017,Cash,8.1
+Central,Karur,Member,Female,Fruits & Veggies,88.71,7,31.05,621,652.05,12-12-2017,Credit card,7.9
+Central,Karur,Member,Male,Beverages,129.5,8,51.8,1036,1087.8,05-02-2017,Credit card,4.4
+South,Viluppuram,Member,Female,"Eggs, Meat & Fish",324.83,6,97.45,1949,2046.45,1/13/2015,Cash,6.4
+Central,Dindigul,Member,Male,Beverages,350.0,5,87.5,1750,1837.5,11/24/2017,Credit card,5.1
+Central,Nagercoil,Member,Male,Snacks,274.83,6,82.45,1649,1731.45,1/14/2018,Cash,4.9
+East,Nagercoil,Normal,Female,Snacks,495.0,5,123.75,2475,2598.75,6/19/2018,Credit card,9.0
+South,Karur,Normal,Male,Fruits & Veggies,262.12,8,104.85,2097,2201.85,12-02-2018,Ewallet,4.3
+South,Karur,Normal,Male,Bakery,805.0,1,40.25,805,845.25,10/22/2017,Ewallet,6.5
+East,Ramanadhapuram,Member,Female,Bakery,212.86,7,74.5,1490,1564.5,11-12-2017,Cash,5.0
+Central,Krishnagiri,Member,Female,Snacks,472.5,2,47.25,945,992.25,5/29/2018,Cash,9.3
+East,Viluppuram,Member,Male,Food Grains,91.44,9,41.15,823,864.15,11/17/2015,Cash,7.3
+South,Krishnagiri,Normal,Female,"Eggs, Meat & Fish",889.0,1,44.45,889,933.45,6/23/2016,Credit card,5.4
+East,Kanyakumari,Normal,Male,Oil & Masala,270.33,6,81.1,1622,1703.1,11/13/2017,Cash,7.0
+Central,Chennai,Member,Male,Oil & Masala,66.67,9,30.0,600,630.0,10/28/2018,Ewallet,8.4
+South,Tirunelveli,Normal,Female,"Eggs, Meat & Fish",556.0,1,27.8,556,583.8,11/23/2018,Credit card,9.7
+South,Kanyakumari,Member,Female,Snacks,271.75,4,54.35,1087,1141.35,8/19/2015,Cash,5.3
+Central,Krishnagiri,Normal,Female,Food Grains,204.0,4,40.8,816,856.8,9/21/2018,Credit card,9.3
+East,Tirunelveli,Normal,Female,Beverages,69.11,9,31.1,622,653.1,9/15/2018,Credit card,9.6
+West,Virudhunagar,Normal,Female,Fruits & Veggies,491.4,5,122.85,2457,2579.85,3/19/2016,Cash,9.5
+South,Coimbatore,Normal,Female,Snacks,246.8,5,61.7,1234,1295.7,3/17/2015,Credit card,7.8
+West,Bodi,Normal,Male,Food Grains,409.83,6,122.95,2459,2581.95,9/26/2017,Ewallet,7.8
+West,Karur,Member,Female,Food Grains,2171.0,1,108.55,2171,2279.55,11-03-2017,Ewallet,6.4
+West,Dindigul,Normal,Male,Snacks,2461.0,1,123.05,2461,2584.05,6/24/2018,Credit card,8.5
+East,Ooty,Member,Male,"Eggs, Meat & Fish",71.89,9,32.35,647,679.35,3/13/2017,Cash,7.2
+West,Krishnagiri,Normal,Male,Fruits & Veggies,364.33,3,54.65,1093,1147.65,12/29/2015,Credit card,8.1
+Central,Namakkal,Normal,Male,Food Grains,190.0,4,38.0,760,798.0,2/15/2016,Ewallet,6.6
+West,Bodi,Normal,Female,Bakery,920.0,1,46.0,920,966.0,10/31/2015,Credit card,8.4
+East,Theni,Member,Female,Food Grains,157.67,9,70.95,1419,1489.95,7/28/2017,Credit card,8.9
+West,Ooty,Normal,Female,"Eggs, Meat & Fish",250.5,8,100.2,2004,2104.2,4/19/2017,Ewallet,4.9
+East,Tenkasi,Normal,Male,Oil & Masala,1041.0,2,104.1,2082,2186.1,12-09-2018,Credit card,9.0
+East,Vellore,Normal,Male,Oil & Masala,295.62,8,118.25,2365,2483.25,4/14/2018,Credit card,7.2
+West,Tenkasi,Member,Male,Snacks,277.57,7,97.15,1943,2040.15,9/25/2016,Cash,9.1
+South,Ramanadhapuram,Member,Male,Fruits & Veggies,272.17,6,81.65,1633,1714.65,12-06-2015,Cash,6.6
+East,Dindigul,Member,Female,Fruits & Veggies,2035.0,1,101.75,2035,2136.75,06-05-2017,Ewallet,6.3
+West,Ooty,Member,Female,Snacks,318.57,7,111.5,2230,2341.5,12-12-2015,Ewallet,9.5
+Central,Trichy,Normal,Female,"Eggs, Meat & Fish",351.29,7,122.95,2459,2581.95,7/29/2018,Ewallet,5.5
+South,Kanyakumari,Member,Male,Fruits & Veggies,203.0,9,91.35,1827,1918.35,05-01-2018,Cash,9.1
+East,Salem,Normal,Female,Snacks,1562.0,1,78.1,1562,1640.1,11/19/2015,Ewallet,6.9
+Central,Krishnagiri,Member,Female,Food Grains,826.5,2,82.65,1653,1735.65,12-11-2016,Ewallet,7.1
+West,Tirunelveli,Member,Female,Oil & Masala,263.33,9,118.5,2370,2488.5,11/17/2015,Ewallet,5.9
+Central,Salem,Normal,Female,Beverages,88.56,9,39.85,797,836.85,6/20/2015,Cash,7.4
+East,Nagercoil,Normal,Male,Snacks,85.0,6,25.5,510,535.5,10-06-2018,Credit card,6.0
+South,Chennai,Member,Male,Oil & Masala,169.0,6,50.7,1014,1064.7,10/21/2015,Ewallet,4.2
+West,Vellore,Normal,Male,Snacks,588.75,4,117.75,2355,2472.75,06-08-2018,Credit card,5.6
+West,Karur,Normal,Female,Bakery,433.75,4,86.75,1735,1821.75,2/18/2018,Ewallet,4.0
+South,Cumbum,Member,Male,"Eggs, Meat & Fish",440.6,5,110.15,2203,2313.15,9/18/2016,Credit card,9.9
+West,Nagercoil,Normal,Male,Food Grains,256.67,3,38.5,770,808.5,10/21/2017,Cash,9.8
+West,Vellore,Normal,Male,Beverages,1511.0,1,75.55,1511,1586.55,05-03-2018,Cash,6.4
+West,Vellore,Normal,Male,Beverages,2009.0,1,100.45,2009,2109.45,11-02-2018,Ewallet,8.4
+West,Tenkasi,Member,Female,Snacks,113.57,7,39.75,795,834.75,8/16/2017,Credit card,6.1
+West,Pudukottai,Normal,Female,Beverages,867.0,1,43.35,867,910.35,12-12-2015,Cash,8.0
+South,Krishnagiri,Member,Male,Beverages,1721.0,1,86.05,1721,1807.05,10/16/2018,Ewallet,8.8
+West,Pudukottai,Member,Male,Food Grains,357.0,3,53.55,1071,1124.55,4/13/2018,Ewallet,9.7
+East,Coimbatore,Member,Female,Bakery,198.0,4,39.6,792,831.6,11/27/2016,Cash,6.4
+East,Virudhunagar,Member,Male,Fruits & Veggies,180.25,4,36.05,721,757.05,11/19/2015,Cash,8.7
+Central,Salem,Normal,Male,Snacks,530.5,2,53.05,1061,1114.05,07-09-2015,Ewallet,5.6
+West,Tirunelveli,Normal,Male,Fruits & Veggies,2044.0,1,102.2,2044,2146.2,4/18/2015,Credit card,9.9
+Central,Virudhunagar,Normal,Male,Beverages,813.33,3,122.0,2440,2562.0,07-02-2018,Credit card,4.2
+Central,Chennai,Member,Female,Oil & Masala,126.5,4,25.3,506,531.3,6/19/2018,Credit card,7.6
+Central,Dharmapuri,Member,Female,Bakery,796.33,3,119.45,2389,2508.45,06-12-2016,Ewallet,8.0
+Central,Nagercoil,Member,Male,Oil & Masala,88.5,8,35.4,708,743.4,4/15/2017,Cash,8.1
+South,Salem,Normal,Male,Bakery,1013.0,1,50.65,1013,1063.65,9/18/2018,Ewallet,4.7
+East,Virudhunagar,Member,Female,"Eggs, Meat & Fish",270.0,2,27.0,540,567.0,08-11-2016,Cash,9.6
+Central,Cumbum,Normal,Female,"Eggs, Meat & Fish",211.71,7,74.1,1482,1556.1,11/29/2016,Credit card,5.1
+West,Bodi,Normal,Female,Oil & Masala,324.0,4,64.8,1296,1360.8,2/20/2018,Credit card,7.7
+South,Ramanadhapuram,Member,Female,Bakery,71.0,8,28.4,568,596.4,10/20/2018,Cash,5.3
+East,Salem,Normal,Male,Snacks,623.0,3,93.45,1869,1962.45,04-06-2015,Cash,5.8
+West,Dharmapuri,Member,Male,"Eggs, Meat & Fish",256.0,6,76.8,1536,1612.8,06-02-2017,Ewallet,7.3
+Central,Dindigul,Normal,Female,Oil & Masala,78.22,9,35.2,704,739.2,12-05-2016,Credit card,6.5
+West,Ramanadhapuram,Normal,Male,Beverages,1534.0,1,76.7,1534,1610.7,8/26/2017,Ewallet,5.0
+Central,Cumbum,Member,Female,Oil & Masala,2023.0,1,101.15,2023,2124.15,10-02-2017,Ewallet,5.0
+East,Dharmapuri,Member,Female,Oil & Masala,233.62,8,93.45,1869,1962.45,8/26/2017,Ewallet,6.5
+East,Dharmapuri,Normal,Female,Fruits & Veggies,564.67,3,84.7,1694,1778.7,8/25/2015,Credit card,8.5
+West,Ramanadhapuram,Normal,Male,Fruits & Veggies,350.4,5,87.6,1752,1839.6,11/17/2016,Ewallet,9.4
+South,Pudukottai,Member,Female,Snacks,814.0,1,40.7,814,854.7,05-01-2017,Ewallet,4.5
+West,Krishnagiri,Normal,Male,Bakery,186.2,5,46.55,931,977.55,9/18/2016,Ewallet,6.4
+West,Ooty,Normal,Female,Snacks,222.0,6,66.6,1332,1398.6,4/24/2017,Ewallet,4.6
+West,Kanyakumari,Normal,Female,Fruits & Veggies,301.62,8,120.65,2413,2533.65,02-05-2018,Ewallet,4.1
+Central,Tenkasi,Member,Male,Fruits & Veggies,616.67,3,92.5,1850,1942.5,11/26/2018,Ewallet,8.0
+South,Virudhunagar,Normal,Female,Beverages,299.67,3,44.95,899,943.95,3/21/2016,Credit card,7.6
+South,Trichy,Normal,Female,Food Grains,210.22,9,94.6,1892,1986.6,4/20/2016,Ewallet,5.0
+West,Chennai,Member,Male,Beverages,275.0,4,55.0,1100,1155.0,6/20/2017,Cash,5.4
+Central,Pudukottai,Member,Male,Oil & Masala,580.5,4,116.1,2322,2438.1,03-08-2017,Ewallet,4.1
+East,Dharmapuri,Normal,Male,Oil & Masala,168.29,7,58.9,1178,1236.9,7/19/2015,Ewallet,9.0
+East,Namakkal,Member,Male,Beverages,1116.5,2,111.65,2233,2344.65,12/27/2018,Credit card,9.8
+West,Madurai,Normal,Male,Beverages,164.0,8,65.6,1312,1377.6,12-02-2018,Credit card,4.8
+South,Madurai,Member,Female,Snacks,219.67,6,65.9,1318,1383.9,12/23/2017,Cash,5.4
+Central,Perambalur,Member,Male,Bakery,634.67,3,95.2,1904,1999.2,7/26/2015,Cash,9.2
+West,Bodi,Normal,Male,Bakery,259.22,9,116.65,2333,2449.65,09-07-2018,Credit card,9.6
+South,Dindigul,Member,Female,Bakery,150.4,5,37.6,752,789.6,08-06-2018,Credit card,6.5
+Central,Coimbatore,Normal,Male,Bakery,308.75,8,123.5,2470,2593.5,09-02-2017,Ewallet,4.3
+West,Virudhunagar,Member,Female,Beverages,148.0,7,51.8,1036,1087.8,12/22/2018,Credit card,4.2
+Central,Karur,Normal,Male,Beverages,182.12,8,72.85,1457,1529.85,09-05-2017,Cash,7.4
+South,Karur,Member,Male,Fruits & Veggies,87.86,7,30.75,615,645.75,4/16/2016,Ewallet,6.4
+East,Kanyakumari,Member,Female,Oil & Masala,744.67,3,111.7,2234,2345.7,12/24/2018,Cash,4.2
+West,Tenkasi,Normal,Female,"Eggs, Meat & Fish",1078.5,2,107.85,2157,2264.85,6/17/2015,Ewallet,7.5
+West,Bodi,Member,Female,Oil & Masala,133.86,7,46.85,937,983.85,11/16/2016,Credit card,4.1
+Central,Viluppuram,Normal,Female,Snacks,341.33,3,51.2,1024,1075.2,11-07-2016,Cash,8.7
+Central,Karur,Member,Female,Oil & Masala,301.33,3,45.2,904,949.2,4/21/2018,Ewallet,5.8
+East,Chennai,Normal,Male,Bakery,302.5,2,30.25,605,635.25,2/24/2018,Ewallet,4.2
+West,Madurai,Member,Male,"Eggs, Meat & Fish",131.75,4,26.35,527,553.35,3/13/2018,Credit card,7.5
+West,Pudukottai,Normal,Female,"Eggs, Meat & Fish",234.75,8,93.9,1878,1971.9,5/27/2015,Credit card,6.4
+East,Pudukottai,Member,Female,Fruits & Veggies,1893.0,1,94.65,1893,1987.65,09-04-2017,Credit card,9.8
+West,Vellore,Member,Female,Snacks,2220.0,1,111.0,2220,2331.0,7/21/2017,Cash,7.3
+West,Vellore,Member,Male,Oil & Masala,477.2,5,119.3,2386,2505.3,10/24/2017,Ewallet,5.7
+East,Karur,Member,Male,Snacks,288.4,5,72.1,1442,1514.1,9/30/2015,Credit card,8.3
+Central,Bodi,Normal,Female,Oil & Masala,690.0,1,34.5,690,724.5,08-07-2018,Cash,5.6
+West,Pudukottai,Member,Male,Beverages,181.17,6,54.35,1087,1141.35,08-01-2016,Cash,9.4
+East,Virudhunagar,Normal,Female,Bakery,632.0,1,31.6,632,663.6,12-02-2017,Cash,6.2
+Central,Kanyakumari,Member,Female,"Eggs, Meat & Fish",166.2,5,41.55,831,872.55,11/22/2016,Credit card,7.3
+East,Virudhunagar,Member,Male,"Eggs, Meat & Fish",105.67,9,47.55,951,998.55,03-08-2016,Credit card,4.3
+West,Tenkasi,Normal,Female,Snacks,439.6,5,109.9,2198,2307.9,12/24/2016,Ewallet,6.6
+West,Karur,Normal,Female,Snacks,193.5,6,58.05,1161,1219.05,11/14/2018,Ewallet,9.0
+West,Viluppuram,Member,Male,"Eggs, Meat & Fish",154.25,8,61.7,1234,1295.7,2/26/2018,Credit card,8.8
+South,Karur,Member,Female,Beverages,1722.0,1,86.1,1722,1808.1,12-08-2017,Cash,5.3
+West,Nagercoil,Member,Female,Beverages,709.5,2,70.95,1419,1489.95,08-04-2017,Cash,5.4
+East,Pudukottai,Normal,Female,Fruits & Veggies,188.11,9,84.65,1693,1777.65,1/25/2017,Cash,8.9
+Central,Salem,Normal,Male,Oil & Masala,410.0,3,61.5,1230,1291.5,10/24/2016,Ewallet,9.6
+West,Nagercoil,Member,Female,Oil & Masala,197.17,6,59.15,1183,1242.15,5/19/2018,Cash,4.6
+East,Nagercoil,Normal,Male,Bakery,405.8,5,101.45,2029,2130.45,4/25/2017,Ewallet,6.7
+West,Viluppuram,Normal,Male,Oil & Masala,1130.0,2,113.0,2260,2373.0,8/31/2016,Ewallet,6.0
+Central,Dharmapuri,Normal,Female,"Eggs, Meat & Fish",253.14,7,88.6,1772,1860.6,02-11-2015,Cash,9.2
+South,Virudhunagar,Normal,Male,Snacks,321.25,4,64.25,1285,1349.25,10/21/2017,Cash,4.5
+Central,Ooty,Member,Male,Food Grains,1934.0,1,96.7,1934,2030.7,07-11-2018,Credit card,5.3
+West,Tenkasi,Member,Female,Beverages,558.5,4,111.7,2234,2345.7,9/20/2017,Credit card,8.5
+West,Pudukottai,Member,Female,Bakery,166.17,6,49.85,997,1046.85,10/13/2018,Cash,4.3
+Central,Theni,Member,Female,Beverages,262.29,7,91.8,1836,1927.8,9/19/2015,Ewallet,7.0
+Central,Dharmapuri,Normal,Female,Oil & Masala,286.86,7,100.4,2008,2108.4,03-03-2017,Ewallet,6.7
+West,Kanyakumari,Normal,Male,Bakery,285.71,7,100.0,2000,2100.0,3/24/2017,Ewallet,6.0
+West,Cumbum,Member,Male,"Eggs, Meat & Fish",770.0,3,115.5,2310,2425.5,10/19/2018,Ewallet,6.4
+East,Trichy,Member,Male,Fruits & Veggies,357.83,6,107.35,2147,2254.35,05-07-2017,Ewallet,7.2
+West,Bodi,Member,Female,Oil & Masala,248.25,8,99.3,1986,2085.3,7/17/2017,Credit card,5.0
+East,Coimbatore,Normal,Female,Food Grains,193.75,4,38.75,775,813.75,03-10-2018,Cash,7.4
+East,Madurai,Member,Female,Snacks,198.5,8,79.4,1588,1667.4,06-12-2018,Credit card,8.8
+Central,Theni,Normal,Female,Fruits & Veggies,1078.0,2,107.8,2156,2263.8,07-12-2015,Ewallet,8.6
+East,Namakkal,Member,Male,Oil & Masala,178.0,9,80.1,1602,1682.1,1/22/2017,Ewallet,4.9
+East,Theni,Member,Female,Snacks,122.44,9,55.1,1102,1157.1,04-03-2018,Ewallet,4.9
+West,Bodi,Normal,Male,"Eggs, Meat & Fish",162.38,8,64.95,1299,1363.95,01-10-2017,Ewallet,5.6
+Central,Kanyakumari,Normal,Female,Bakery,1937.0,1,96.85,1937,2033.85,03-03-2017,Cash,6.2
+West,Perambalur,Member,Male,Bakery,1162.0,2,116.2,2324,2440.2,9/29/2015,Ewallet,6.5
+West,Ramanadhapuram,Normal,Female,Oil & Masala,384.67,6,115.4,2308,2423.4,04-01-2015,Cash,8.1
+West,Virudhunagar,Normal,Male,Beverages,482.0,5,120.5,2410,2530.5,11/15/2015,Ewallet,4.3
+East,Ramanadhapuram,Normal,Male,"Eggs, Meat & Fish",271.0,9,121.95,2439,2560.95,10/21/2017,Cash,4.2
+South,Nagercoil,Member,Male,Bakery,445.8,5,111.45,2229,2340.45,10-02-2018,Credit card,6.4
+Central,Cumbum,Normal,Female,"Eggs, Meat & Fish",609.5,2,60.95,1219,1279.95,8/15/2018,Ewallet,8.2
+South,Namakkal,Member,Female,Food Grains,318.25,4,63.65,1273,1336.65,09-05-2017,Cash,5.2
+Central,Theni,Normal,Male,Snacks,251.22,9,113.05,2261,2374.05,02-11-2015,Credit card,7.8
+West,Dharmapuri,Member,Male,Bakery,711.0,1,35.55,711,746.55,11/14/2016,Ewallet,5.6
+West,Krishnagiri,Member,Female,Fruits & Veggies,703.0,1,35.15,703,738.15,7/19/2017,Ewallet,9.3
+East,Kanyakumari,Member,Male,Beverages,196.71,7,68.85,1377,1445.85,5/21/2015,Ewallet,9.4
+Central,Cumbum,Normal,Female,Snacks,751.0,3,112.65,2253,2365.65,12-11-2018,Cash,5.8
+East,Ooty,Member,Female,Food Grains,699.0,2,69.9,1398,1467.9,1/16/2015,Cash,5.4
+East,Cumbum,Normal,Male,Oil & Masala,192.56,9,86.65,1733,1819.65,03-02-2015,Credit card,6.5
+East,Chennai,Normal,Male,Bakery,810.67,3,121.6,2432,2553.6,04-09-2018,Cash,5.4
+East,Namakkal,Member,Female,Fruits & Veggies,1026.0,2,102.6,2052,2154.6,05-03-2017,Cash,8.0
+Central,Karur,Normal,Male,Fruits & Veggies,226.0,8,90.4,1808,1898.4,4/16/2016,Ewallet,9.0
+Central,Coimbatore,Member,Male,Beverages,157.83,6,47.35,947,994.35,09-01-2017,Ewallet,8.0
+South,Virudhunagar,Normal,Female,Food Grains,100.67,6,30.2,604,634.2,04-12-2017,Ewallet,8.9
+West,Pudukottai,Member,Female,"Eggs, Meat & Fish",169.43,7,59.3,1186,1245.3,09-12-2017,Ewallet,6.4
+West,Vellore,Normal,Female,Bakery,93.29,7,32.65,653,685.65,11-10-2015,Ewallet,4.9
+East,Tenkasi,Normal,Female,Snacks,371.0,6,111.3,2226,2337.3,7/27/2015,Ewallet,8.4
+West,Cumbum,Normal,Male,Food Grains,228.0,4,45.6,912,957.6,4/13/2016,Ewallet,6.2
+West,Madurai,Normal,Male,"Eggs, Meat & Fish",86.56,9,38.95,779,817.95,8/21/2017,Credit card,8.0
+South,Pudukottai,Member,Female,Fruits & Veggies,229.33,6,68.8,1376,1444.8,7/16/2017,Credit card,5.6
+South,Cumbum,Normal,Female,Oil & Masala,594.0,4,118.8,2376,2494.8,02-05-2017,Credit card,4.5
+Central,Coimbatore,Normal,Male,Beverages,509.0,3,76.35,1527,1603.35,8/29/2017,Credit card,10.0
+South,Kanyakumari,Normal,Female,Snacks,553.25,4,110.65,2213,2323.65,12/30/2017,Ewallet,4.9
+East,Tenkasi,Member,Male,Bakery,792.33,3,118.85,2377,2495.85,4/16/2016,Credit card,9.9
+Central,Tenkasi,Normal,Female,Snacks,1045.0,2,104.5,2090,2194.5,11/19/2018,Ewallet,9.9
+Central,Ooty,Normal,Male,Fruits & Veggies,250.0,5,62.5,1250,1312.5,12-09-2018,Credit card,8.8
+West,Dindigul,Normal,Male,Beverages,757.0,2,75.7,1514,1589.7,08-10-2016,Cash,8.0
+West,Ramanadhapuram,Member,Male,Fruits & Veggies,292.83,6,87.85,1757,1844.85,2/13/2018,Credit card,7.5
+East,Cumbum,Normal,Male,Beverages,324.0,3,48.6,972,1020.6,06-01-2018,Credit card,9.2
+West,Kanyakumari,Member,Male,Food Grains,265.5,6,79.65,1593,1672.65,06-11-2017,Ewallet,5.7
+South,Dindigul,Normal,Female,Bakery,171.78,9,77.3,1546,1623.3,03-09-2016,Credit card,6.8
+East,Krishnagiri,Member,Female,Food Grains,1863.0,1,93.15,1863,1956.15,5/31/2016,Cash,7.7
+Central,Namakkal,Normal,Female,"Eggs, Meat & Fish",266.0,6,79.8,1596,1675.8,10/29/2015,Ewallet,6.5
+West,Chennai,Normal,Female,Snacks,218.44,9,98.3,1966,2064.3,9/19/2018,Ewallet,6.6
+Central,Nagercoil,Member,Male,Snacks,268.25,4,53.65,1073,1126.65,9/18/2018,Credit card,6.0
+West,Virudhunagar,Normal,Male,Beverages,1133.0,2,113.3,2266,2379.3,12/26/2017,Ewallet,7.4
+West,Madurai,Member,Female,"Eggs, Meat & Fish",419.25,4,83.85,1677,1760.85,3/28/2017,Ewallet,9.1
+East,Pudukottai,Normal,Male,Fruits & Veggies,1113.0,1,55.65,1113,1168.65,07-08-2018,Ewallet,5.2
+West,Salem,Normal,Female,Bakery,362.67,3,54.4,1088,1142.4,12-11-2017,Ewallet,9.6
+West,Tirunelveli,Normal,Male,Fruits & Veggies,211.67,9,95.25,1905,2000.25,08-01-2018,Ewallet,8.1
+Central,Ramanadhapuram,Normal,Female,Food Grains,327.8,5,81.95,1639,1720.95,3/13/2018,Ewallet,8.9
+West,Madurai,Normal,Male,Beverages,133.5,6,40.05,801,841.05,6/28/2016,Cash,7.3
+South,Ooty,Member,Female,Food Grains,176.0,3,26.4,528,554.4,8/27/2015,Credit card,8.7
+West,Salem,Member,Female,Snacks,375.0,5,93.75,1875,1968.75,12/18/2018,Cash,4.1
+East,Krishnagiri,Normal,Female,Oil & Masala,99.38,8,39.75,795,834.75,3/31/2017,Ewallet,8.9
+West,Tenkasi,Normal,Male,Beverages,88.83,6,26.65,533,559.65,12-12-2016,Ewallet,4.2
+Central,Theni,Normal,Female,Beverages,530.0,4,106.0,2120,2226.0,1/29/2018,Credit card,9.3
+South,Dharmapuri,Normal,Female,Fruits & Veggies,448.0,2,44.8,896,940.8,10-11-2016,Cash,10.0
+West,Theni,Member,Female,"Eggs, Meat & Fish",58.33,9,26.25,525,551.25,4/24/2017,Credit card,5.8
+West,Pudukottai,Normal,Female,Snacks,1150.0,1,57.5,1150,1207.5,9/28/2016,Cash,5.3
+East,Trichy,Member,Female,"Eggs, Meat & Fish",1065.0,1,53.25,1065,1118.25,6/21/2015,Ewallet,8.6
+West,Kanyakumari,Normal,Male,"Eggs, Meat & Fish",317.0,4,63.4,1268,1331.4,5/25/2016,Credit card,5.5
+West,Nagercoil,Member,Female,Food Grains,93.43,7,32.7,654,686.7,7/17/2018,Credit card,9.2
+South,Theni,Member,Female,"Eggs, Meat & Fish",1747.0,1,87.35,1747,1834.35,01-06-2018,Ewallet,4.6
+East,Chennai,Member,Female,Food Grains,138.22,9,62.2,1244,1306.2,11/20/2017,Credit card,4.8
+Central,Bodi,Member,Male,Fruits & Veggies,402.0,4,80.4,1608,1688.4,8/28/2016,Cash,9.9
+East,Virudhunagar,Normal,Male,"Eggs, Meat & Fish",730.0,3,109.5,2190,2299.5,12-06-2016,Cash,8.0
+West,Nagercoil,Member,Female,Snacks,746.0,1,37.3,746,783.3,07-11-2016,Cash,9.1
+West,Kanyakumari,Member,Female,"Eggs, Meat & Fish",585.25,4,117.05,2341,2458.05,5/15/2018,Cash,5.9
+Central,Virudhunagar,Member,Male,Snacks,222.22,9,100.0,2000,2100.0,1/19/2016,Ewallet,8.1
+West,Kanyakumari,Member,Female,Beverages,346.33,6,103.9,2078,2181.9,11-11-2015,Credit card,7.6
+East,Theni,Member,Male,"Eggs, Meat & Fish",260.83,6,78.25,1565,1643.25,07-09-2016,Cash,7.6
+East,Nagercoil,Member,Male,Bakery,2109.0,1,105.45,2109,2214.45,08-09-2016,Ewallet,8.1
+Central,Bodi,Normal,Male,Beverages,974.5,2,97.45,1949,2046.45,6/13/2018,Credit card,7.5
+Central,Ooty,Normal,Male,"Eggs, Meat & Fish",215.5,6,64.65,1293,1357.65,11/27/2018,Credit card,6.6
+East,Salem,Normal,Female,"Eggs, Meat & Fish",1015.0,2,101.5,2030,2131.5,10/18/2015,Ewallet,5.7
+West,Madurai,Member,Male,Snacks,564.67,3,84.7,1694,1778.7,3/18/2015,Ewallet,8.6
+East,Krishnagiri,Member,Female,Oil & Masala,531.75,4,106.35,2127,2233.35,2/21/2017,Cash,5.4
+East,Karur,Normal,Female,Food Grains,218.0,5,54.5,1090,1144.5,05-02-2017,Credit card,8.2
+West,Bodi,Normal,Female,Food Grains,227.78,9,102.5,2050,2152.5,07-12-2015,Credit card,5.4
+East,Pudukottai,Member,Female,Oil & Masala,455.0,4,91.0,1820,1911.0,04-01-2017,Ewallet,7.8
+Central,Krishnagiri,Member,Male,Bakery,142.11,9,63.95,1279,1342.95,7/21/2015,Credit card,8.5
+South,Madurai,Member,Female,"Eggs, Meat & Fish",422.33,3,63.35,1267,1330.35,6/13/2016,Cash,5.3
+West,Cumbum,Member,Female,Fruits & Veggies,178.75,8,71.5,1430,1501.5,10/13/2017,Credit card,4.4
+South,Ramanadhapuram,Member,Male,Bakery,1636.0,1,81.8,1636,1717.8,11/15/2018,Ewallet,4.8
+Central,Kanyakumari,Normal,Female,Snacks,62.22,9,28.0,560,588.0,6/20/2015,Ewallet,7.6
+Central,Namakkal,Normal,Female,Food Grains,194.67,9,87.6,1752,1839.6,9/24/2017,Cash,9.1
+Central,Pudukottai,Normal,Female,Fruits & Veggies,252.5,2,25.25,505,530.25,11/25/2018,Cash,4.3
+West,Ramanadhapuram,Normal,Female,Snacks,206.5,4,41.3,826,867.3,7/23/2015,Credit card,8.4
+South,Namakkal,Normal,Female,Beverages,129.0,8,51.6,1032,1083.6,11-05-2017,Credit card,6.0
+West,Salem,Normal,Male,Snacks,125.43,7,43.9,878,921.9,03-10-2017,Ewallet,6.9
+South,Trichy,Normal,Female,Fruits & Veggies,2091.0,1,104.55,2091,2195.55,6/13/2018,Cash,9.6
+Central,Krishnagiri,Member,Female,Fruits & Veggies,172.0,5,43.0,860,903.0,12/14/2018,Cash,6.0
+South,Dharmapuri,Member,Male,Oil & Masala,158.71,7,55.55,1111,1166.55,09-04-2017,Cash,6.8
+East,Kanyakumari,Member,Male,Snacks,259.75,4,51.95,1039,1090.95,04-04-2018,Credit card,4.1
+West,Trichy,Normal,Male,Bakery,2429.0,1,121.45,2429,2550.45,11/21/2018,Cash,4.5
+West,Dindigul,Normal,Female,Oil & Masala,264.89,9,119.2,2384,2503.2,12-10-2015,Ewallet,5.6
+East,Salem,Member,Female,Beverages,305.6,5,76.4,1528,1604.4,09-08-2018,Ewallet,4.2
+East,Namakkal,Normal,Male,Fruits & Veggies,1069.5,2,106.95,2139,2245.95,11/29/2015,Credit card,7.8
+West,Perambalur,Member,Female,"Eggs, Meat & Fish",89.75,8,35.9,718,753.9,11-11-2015,Credit card,6.6
+West,Kanyakumari,Normal,Male,Bakery,305.5,2,30.55,611,641.55,09-07-2018,Cash,7.3
+East,Karur,Member,Female,Fruits & Veggies,237.0,3,35.55,711,746.55,9/20/2018,Credit card,5.0
+East,Nagercoil,Member,Female,Beverages,1795.0,1,89.75,1795,1884.75,4/20/2018,Ewallet,5.8
+West,Krishnagiri,Member,Female,"Eggs, Meat & Fish",1115.0,2,111.5,2230,2341.5,12-12-2015,Cash,8.0
+East,Karur,Member,Male,Snacks,304.71,7,106.65,2133,2239.65,8/30/2017,Ewallet,9.8
+West,Karur,Member,Male,Fruits & Veggies,977.5,2,97.75,1955,2052.75,11-12-2017,Cash,4.3
+West,Perambalur,Member,Male,Snacks,233.17,6,69.95,1399,1468.95,1/21/2018,Credit card,9.3
+South,Trichy,Normal,Male,"Eggs, Meat & Fish",667.67,3,100.15,2003,2103.15,7/25/2017,Cash,7.5
+South,Tenkasi,Normal,Female,Beverages,576.5,4,115.3,2306,2421.3,3/19/2015,Cash,7.4
+Central,Salem,Member,Female,Bakery,189.0,8,75.6,1512,1587.6,12/20/2016,Ewallet,7.0
+South,Tirunelveli,Normal,Female,Beverages,826.0,3,123.9,2478,2601.9,05-01-2017,Ewallet,4.4
+South,Tirunelveli,Normal,Female,"Eggs, Meat & Fish",354.83,6,106.45,2129,2235.45,9/17/2016,Cash,4.5
+West,Coimbatore,Member,Female,Snacks,610.0,1,30.5,610,640.5,03-07-2015,Credit card,7.6
+West,Coimbatore,Member,Female,Beverages,312.57,7,109.4,2188,2297.4,4/14/2016,Credit card,6.0
+West,Vellore,Member,Female,Snacks,150.75,8,60.3,1206,1266.3,1/20/2018,Ewallet,9.5
+East,Krishnagiri,Member,Female,"Eggs, Meat & Fish",302.25,8,120.9,2418,2538.9,12/27/2016,Credit card,6.4
+West,Virudhunagar,Normal,Male,Snacks,646.67,3,97.0,1940,2037.0,9/23/2018,Ewallet,4.9
+South,Pudukottai,Member,Male,Beverages,639.0,1,31.95,639,670.95,08-09-2017,Credit card,8.3
+East,Chennai,Normal,Male,"Eggs, Meat & Fish",250.33,9,112.65,2253,2365.65,12-07-2016,Cash,5.8
+East,Chennai,Normal,Female,Oil & Masala,165.5,6,49.65,993,1042.65,1/23/2017,Ewallet,7.2
+East,Nagercoil,Member,Female,Fruits & Veggies,263.33,9,118.5,2370,2488.5,11/17/2018,Ewallet,8.2
+West,Dharmapuri,Normal,Male,Food Grains,324.14,7,113.45,2269,2382.45,07-08-2017,Cash,9.4
+West,Theni,Member,Female,Food Grains,1253.0,1,62.65,1253,1315.65,12/25/2016,Ewallet,8.8
+West,Salem,Normal,Female,"Eggs, Meat & Fish",791.0,1,39.55,791,830.55,12-05-2018,Credit card,8.1
+West,Virudhunagar,Member,Male,Snacks,143.67,6,43.1,862,905.1,06-10-2018,Credit card,8.1
+Central,Krishnagiri,Normal,Male,"Eggs, Meat & Fish",111.4,5,27.85,557,584.85,08-06-2016,Ewallet,9.7
+East,Theni,Normal,Female,Oil & Masala,147.89,9,66.55,1331,1397.55,6/21/2015,Credit card,5.8
+South,Virudhunagar,Member,Female,Fruits & Veggies,426.0,2,42.6,852,894.6,05-07-2016,Ewallet,4.0
+West,Vellore,Normal,Female,Fruits & Veggies,105.38,8,42.15,843,885.15,4/13/2017,Cash,5.6
+Central,Bodi,Normal,Female,Bakery,330.2,5,82.55,1651,1733.55,04-11-2015,Ewallet,5.3
+Central,Kanyakumari,Normal,Female,Food Grains,605.5,2,60.55,1211,1271.55,5/30/2017,Cash,8.0
+West,Salem,Normal,Female,Beverages,92.83,6,27.85,557,584.85,03-08-2016,Credit card,7.8
+South,Pudukottai,Normal,Female,Oil & Masala,285.0,8,114.0,2280,2394.0,11-10-2017,Cash,7.6
+West,Vellore,Member,Female,Snacks,273.75,4,54.75,1095,1149.75,12/13/2016,Credit card,4.1
+West,Perambalur,Member,Male,Bakery,818.5,2,81.85,1637,1718.85,6/14/2017,Ewallet,8.4
+Central,Virudhunagar,Normal,Male,Bakery,344.8,5,86.2,1724,1810.2,9/24/2017,Credit card,5.9
+West,Madurai,Member,Male,Food Grains,563.0,2,56.3,1126,1182.3,12-06-2017,Ewallet,8.0
+West,Vellore,Normal,Female,Beverages,1027.5,2,102.75,2055,2157.75,8/21/2018,Ewallet,7.3
+East,Perambalur,Normal,Female,Bakery,291.33,6,87.4,1748,1835.4,10/16/2016,Cash,6.1
+West,Pudukottai,Member,Female,Food Grains,205.44,9,92.45,1849,1941.45,4/18/2016,Cash,4.8
+West,Chennai,Member,Male,Beverages,242.25,4,48.45,969,1017.45,9/18/2016,Cash,4.6
+West,Ooty,Normal,Male,Fruits & Veggies,105.83,6,31.75,635,666.75,11/19/2018,Cash,9.0
+Central,Tenkasi,Member,Male,Fruits & Veggies,112.0,7,39.2,784,823.2,11/23/2018,Credit card,9.5
+South,Kanyakumari,Normal,Male,Beverages,333.33,6,100.0,2000,2100.0,11/25/2018,Credit card,7.9
+East,Trichy,Member,Female,Bakery,241.5,8,96.6,1932,2028.6,12/14/2017,Credit card,4.6
+Central,Tenkasi,Normal,Male,"Eggs, Meat & Fish",600.75,4,120.15,2403,2523.15,12/22/2018,Ewallet,6.4
+East,Theni,Member,Male,Oil & Masala,2459.0,1,122.95,2459,2581.95,11-12-2018,Credit card,8.4
+South,Ooty,Normal,Female,Oil & Masala,225.14,7,78.8,1576,1654.8,05-04-2018,Credit card,8.7
+Central,Dindigul,Member,Male,Fruits & Veggies,177.33,3,26.6,532,558.6,5/15/2018,Credit card,4.7
+East,Nagercoil,Normal,Female,Oil & Masala,371.17,6,111.35,2227,2338.35,10/27/2017,Cash,4.0
+South,Bodi,Member,Female,Food Grains,1063.0,2,106.3,2126,2232.3,10/30/2018,Credit card,8.3
+South,Tenkasi,Normal,Male,Fruits & Veggies,92.44,9,41.6,832,873.6,10/18/2015,Ewallet,6.1
+East,Virudhunagar,Normal,Female,Beverages,2389.0,1,119.45,2389,2508.45,10-02-2018,Cash,5.5
+South,Salem,Member,Female,Food Grains,174.17,6,52.25,1045,1097.25,5/30/2018,Ewallet,4.1
+Central,Kanyakumari,Member,Female,Oil & Masala,234.17,6,70.25,1405,1475.25,9/13/2017,Credit card,7.2
+West,Virudhunagar,Member,Male,Oil & Masala,476.0,5,119.0,2380,2499.0,3/22/2016,Cash,9.1
+South,Ooty,Normal,Female,Snacks,214.6,5,53.65,1073,1126.65,06-02-2018,Ewallet,9.7
+West,Tenkasi,Normal,Female,Bakery,926.0,1,46.3,926,972.3,10/29/2016,Credit card,7.4
+Central,Dindigul,Normal,Male,Beverages,256.2,5,64.05,1281,1345.05,12-01-2017,Ewallet,7.1
+South,Madurai,Member,Male,Beverages,702.5,2,70.25,1405,1475.25,02-05-2017,Ewallet,4.5
+East,Viluppuram,Member,Female,Food Grains,191.57,7,67.05,1341,1408.05,9/17/2018,Ewallet,7.3
+Central,Kanyakumari,Normal,Female,"Eggs, Meat & Fish",659.0,3,98.85,1977,2075.85,4/13/2016,Credit card,6.3
+South,Cumbum,Member,Male,Snacks,325.25,4,65.05,1301,1366.05,12/27/2016,Credit card,7.6
+East,Dharmapuri,Normal,Female,Fruits & Veggies,227.67,3,34.15,683,717.15,11-11-2015,Ewallet,6.3
+South,Bodi,Member,Male,Fruits & Veggies,532.33,3,79.85,1597,1676.85,5/31/2015,Cash,5.4
+West,Ooty,Normal,Male,Food Grains,273.75,4,54.75,1095,1149.75,09-02-2017,Cash,4.6
+Central,Vellore,Member,Male,Beverages,160.6,5,40.15,803,843.15,4/22/2017,Credit card,5.9
+South,Kanyakumari,Member,Male,Snacks,959.0,1,47.95,959,1006.95,3/16/2016,Credit card,4.6
+West,Viluppuram,Normal,Male,Oil & Masala,587.5,4,117.5,2350,2467.5,9/15/2018,Credit card,5.1
+East,Kanyakumari,Normal,Male,Snacks,81.25,8,32.5,650,682.5,9/18/2017,Credit card,9.9
+West,Perambalur,Normal,Female,Bakery,322.71,7,112.95,2259,2371.95,10/31/2017,Credit card,6.7
+West,Dharmapuri,Member,Male,Beverages,89.56,9,40.3,806,846.3,05-02-2018,Cash,7.2
+Central,Cumbum,Member,Male,Beverages,192.8,5,48.2,964,1012.2,5/28/2018,Credit card,9.2
+North,Vellore,Normal,Female,Oil & Masala,313.5,4,62.7,1254,1316.7,11-08-2017,Ewallet,10.0
+West,Bodi,Normal,Male,Snacks,294.38,8,117.75,2355,2472.75,12-10-2018,Ewallet,7.5
+Central,Salem,Member,Female,Snacks,254.33,9,114.45,2289,2403.45,05-11-2015,Cash,8.9
+East,Bodi,Member,Male,Food Grains,139.71,7,48.9,978,1026.9,09-01-2017,Ewallet,6.0
+Central,Dharmapuri,Member,Male,Oil & Masala,221.0,7,77.35,1547,1624.35,7/30/2017,Cash,5.8
+West,Bodi,Normal,Male,Food Grains,412.0,5,103.0,2060,2163.0,8/28/2016,Cash,6.4
+South,Tenkasi,Member,Male,Beverages,247.25,4,49.45,989,1038.45,3/31/2015,Ewallet,8.0
+South,Pudukottai,Member,Male,Food Grains,715.0,1,35.75,715,750.75,3/26/2016,Credit card,8.1
+Central,Perambalur,Member,Male,Food Grains,220.29,7,77.1,1542,1619.1,9/26/2017,Ewallet,5.9
+West,Madurai,Member,Male,Bakery,2093.0,1,104.65,2093,2197.65,3/29/2016,Ewallet,4.8
+East,Vellore,Member,Male,Snacks,1902.0,1,95.1,1902,1997.1,8/21/2017,Cash,7.8
+South,Perambalur,Normal,Male,Oil & Masala,357.4,5,89.35,1787,1876.35,11-04-2017,Ewallet,4.8
+West,Ramanadhapuram,Member,Male,Beverages,213.33,9,96.0,1920,2016.0,1/30/2018,Cash,7.5
+East,Tirunelveli,Normal,Male,Bakery,352.33,6,105.7,2114,2219.7,4/27/2016,Credit card,8.2
+Central,Nagercoil,Member,Female,Bakery,288.0,3,43.2,864,907.2,09-10-2018,Credit card,8.2
+East,Nagercoil,Normal,Female,Beverages,704.0,3,105.6,2112,2217.6,02-02-2018,Credit card,8.5
+Central,Kanyakumari,Normal,Male,Snacks,347.29,7,121.55,2431,2552.55,10/28/2015,Ewallet,9.2
+West,Cumbum,Normal,Female,"Eggs, Meat & Fish",234.67,6,70.4,1408,1478.4,10-02-2016,Cash,7.0
+West,Pudukottai,Normal,Female,"Eggs, Meat & Fish",157.56,9,70.9,1418,1488.9,3/13/2017,Credit card,8.4
+East,Tirunelveli,Member,Male,Beverages,239.0,6,71.7,1434,1505.7,6/30/2018,Cash,7.7
+West,Theni,Member,Female,Oil & Masala,148.6,5,37.15,743,780.15,12/14/2018,Cash,5.1
+West,Tenkasi,Normal,Female,Bakery,94.43,7,33.05,661,694.05,6/17/2017,Credit card,4.2
+West,Salem,Normal,Male,Bakery,758.0,1,37.9,758,795.9,11/24/2015,Credit card,5.7
+West,Tenkasi,Normal,Male,Oil & Masala,167.71,7,58.7,1174,1232.7,3/31/2015,Cash,6.7
+South,Tirunelveli,Normal,Female,Snacks,766.33,3,114.95,2299,2413.95,3/27/2017,Credit card,7.7
+South,Ramanadhapuram,Normal,Female,Snacks,235.44,9,105.95,2119,2224.95,11/19/2017,Cash,9.1
+West,Karur,Member,Male,Fruits & Veggies,351.67,6,105.5,2110,2215.5,9/28/2018,Cash,5.2
+Central,Salem,Member,Male,Food Grains,267.67,9,120.45,2409,2529.45,01-09-2015,Credit card,4.8
+East,Tirunelveli,Normal,Male,Snacks,492.8,5,123.2,2464,2587.2,11/27/2016,Ewallet,9.8
+Central,Bodi,Normal,Male,Beverages,217.86,7,76.25,1525,1601.25,02-09-2018,Credit card,4.6
+East,Madurai,Member,Female,Snacks,270.25,4,54.05,1081,1135.05,3/17/2018,Ewallet,6.9
+East,Virudhunagar,Normal,Male,Food Grains,83.29,7,29.15,583,612.15,05-06-2017,Cash,7.5
+West,Chennai,Member,Male,Snacks,1981.0,1,99.05,1981,2080.05,03-06-2018,Cash,7.2
+East,Krishnagiri,Normal,Female,"Eggs, Meat & Fish",184.43,7,64.55,1291,1355.55,09-12-2016,Ewallet,4.5
+East,Karur,Member,Male,Food Grains,130.25,8,52.1,1042,1094.1,04-06-2017,Cash,4.3
+East,Kanyakumari,Member,Male,Oil & Masala,290.2,5,72.55,1451,1523.55,11-08-2016,Ewallet,4.6
+East,Virudhunagar,Normal,Female,Snacks,706.0,2,70.6,1412,1482.6,11/24/2018,Ewallet,7.5
+East,Cumbum,Member,Female,"Eggs, Meat & Fish",393.2,5,98.3,1966,2064.3,12/25/2018,Cash,7.3
+West,Bodi,Normal,Female,Bakery,293.17,6,87.95,1759,1846.95,11/24/2017,Ewallet,5.4
+East,Salem,Normal,Female,Beverages,919.5,2,91.95,1839,1930.95,5/17/2017,Credit card,7.8
+Central,Cumbum,Normal,Male,Bakery,336.17,6,100.85,2017,2117.85,6/20/2015,Credit card,8.9
+South,Chennai,Member,Male,Fruits & Veggies,366.83,6,110.05,2201,2311.05,01-06-2015,Cash,4.2
+East,Krishnagiri,Member,Female,"Eggs, Meat & Fish",2003.0,1,100.15,2003,2103.15,4/24/2018,Cash,7.0
+West,Tirunelveli,Member,Male,Fruits & Veggies,1167.0,1,58.35,1167,1225.35,11-10-2016,Ewallet,8.1
+West,Ooty,Normal,Male,Beverages,330.67,3,49.6,992,1041.6,04-01-2017,Ewallet,5.5
+West,Theni,Normal,Male,Snacks,630.0,3,94.5,1890,1984.5,05-04-2018,Ewallet,5.8
+West,Ooty,Normal,Male,Bakery,315.5,4,63.1,1262,1325.1,11/25/2018,Ewallet,7.7
+South,Madurai,Normal,Male,"Eggs, Meat & Fish",940.5,2,94.05,1881,1975.05,08-04-2017,Credit card,9.4
+East,Perambalur,Normal,Male,Oil & Masala,263.56,9,118.6,2372,2490.6,04-01-2015,Credit card,8.9
+West,Ooty,Normal,Male,"Eggs, Meat & Fish",267.0,7,93.45,1869,1962.45,11/22/2016,Cash,7.5
+Central,Pudukottai,Member,Male,"Eggs, Meat & Fish",311.14,7,108.9,2178,2286.9,11/25/2018,Ewallet,8.4
+South,Vellore,Normal,Female,Food Grains,396.17,6,118.85,2377,2495.85,12/23/2015,Ewallet,6.2
+West,Krishnagiri,Member,Female,Bakery,462.0,3,69.3,1386,1455.3,06-08-2018,Cash,7.8
+East,Cumbum,Normal,Female,Fruits & Veggies,263.83,6,79.15,1583,1662.15,12/28/2015,Ewallet,6.8
+East,Viluppuram,Normal,Female,Snacks,96.25,8,38.5,770,808.5,12-11-2017,Ewallet,5.1
+East,Dharmapuri,Normal,Female,Fruits & Veggies,89.0,8,35.6,712,747.6,09-02-2018,Ewallet,8.2
+East,Karur,Member,Male,Snacks,221.33,9,99.6,1992,2091.6,9/24/2016,Ewallet,7.3
+East,Ooty,Member,Female,Oil & Masala,2428.0,1,121.4,2428,2549.4,7/28/2017,Ewallet,6.2
+Central,Madurai,Member,Female,Bakery,960.0,1,48.0,960,1008.0,9/26/2015,Cash,9.5
+East,Tirunelveli,Member,Female,Beverages,289.67,3,43.45,869,912.45,07-06-2016,Ewallet,4.1
+East,Tenkasi,Member,Male,Beverages,777.33,3,116.6,2332,2448.6,11/27/2015,Cash,5.9
+West,Pudukottai,Normal,Male,Oil & Masala,136.5,8,54.6,1092,1146.6,12/23/2017,Ewallet,4.3
+East,Coimbatore,Normal,Male,"Eggs, Meat & Fish",1058.0,1,52.9,1058,1110.9,12/17/2015,Credit card,8.6
+West,Ramanadhapuram,Member,Male,Fruits & Veggies,484.5,2,48.45,969,1017.45,11/13/2016,Credit card,8.2
+Central,Coimbatore,Member,Female,"Eggs, Meat & Fish",1161.5,2,116.15,2323,2439.15,10/13/2017,Credit card,6.0
+East,Ramanadhapuram,Member,Female,Food Grains,191.0,3,28.65,573,601.65,11-12-2017,Credit card,8.1
+West,Karur,Normal,Male,Oil & Masala,327.67,6,98.3,1966,2064.3,9/16/2017,Cash,6.4
+South,Namakkal,Normal,Female,Snacks,763.0,1,38.15,763,801.15,6/23/2016,Cash,8.5
+Central,Viluppuram,Normal,Female,Bakery,717.0,2,71.7,1434,1505.7,10-10-2015,Ewallet,6.7
+Central,Trichy,Member,Male,Food Grains,765.0,1,38.25,765,803.25,03-02-2018,Credit card,6.5
+West,Krishnagiri,Normal,Male,Beverages,396.8,5,99.2,1984,2083.2,5/19/2017,Cash,9.6
+South,Madurai,Normal,Male,"Eggs, Meat & Fish",170.86,7,59.8,1196,1255.8,09-08-2015,Ewallet,5.5
+Central,Coimbatore,Member,Male,Beverages,289.25,8,115.7,2314,2429.7,10/19/2018,Ewallet,4.7
+South,Tenkasi,Normal,Male,Oil & Masala,934.0,1,46.7,934,980.7,7/26/2015,Cash,7.5
+West,Bodi,Member,Male,Bakery,159.71,7,55.9,1118,1173.9,7/26/2015,Credit card,9.8
+West,Tenkasi,Normal,Male,Bakery,226.6,5,56.65,1133,1189.65,1/23/2018,Ewallet,6.3
+West,Coimbatore,Member,Male,Snacks,2081.0,1,104.05,2081,2185.05,8/28/2017,Credit card,4.4
+Central,Perambalur,Normal,Female,Oil & Masala,688.33,3,103.25,2065,2168.25,5/27/2017,Credit card,6.0
+South,Madurai,Normal,Male,Fruits & Veggies,92.0,7,32.2,644,676.2,11/28/2015,Credit card,7.0
+South,Salem,Normal,Female,Beverages,1614.0,1,80.7,1614,1694.7,8/17/2015,Ewallet,5.0
+Central,Viluppuram,Normal,Male,Food Grains,103.0,7,36.05,721,757.05,10/13/2018,Credit card,7.9
+South,Viluppuram,Member,Female,Snacks,280.0,5,70.0,1400,1470.0,11/30/2016,Ewallet,10.0
+Central,Ooty,Member,Male,Food Grains,937.0,1,46.85,937,983.85,03-08-2016,Credit card,6.7
+Central,Namakkal,Member,Male,Fruits & Veggies,1523.0,1,76.15,1523,1599.15,02-09-2018,Ewallet,6.1
+West,Tirunelveli,Member,Female,Bakery,791.0,1,39.55,791,830.55,06-09-2015,Credit card,6.4
+East,Kanyakumari,Normal,Female,Snacks,90.56,9,40.75,815,855.75,06-12-2017,Cash,4.7
+East,Coimbatore,Member,Female,Fruits & Veggies,793.67,3,119.05,2381,2500.05,4/22/2018,Credit card,9.3
+East,Dindigul,Normal,Male,Food Grains,219.4,5,54.85,1097,1151.85,10/31/2015,Credit card,6.5
+Central,Ramanadhapuram,Normal,Male,Snacks,171.56,9,77.2,1544,1621.2,7/25/2017,Ewallet,6.3
+Central,Krishnagiri,Normal,Female,"Eggs, Meat & Fish",100.17,6,30.05,601,631.05,09-07-2015,Ewallet,8.0
+West,Trichy,Member,Female,"Eggs, Meat & Fish",208.78,9,93.95,1879,1972.95,10-01-2018,Credit card,6.7
+East,Bodi,Normal,Female,Snacks,240.5,8,96.2,1924,2020.2,10/22/2018,Cash,7.9
+Central,Dindigul,Normal,Female,Food Grains,223.62,8,89.45,1789,1878.45,06-03-2015,Cash,4.4
+South,Dharmapuri,Member,Male,Food Grains,1246.0,1,62.3,1246,1308.3,9/22/2016,Ewallet,8.9
+East,Pudukottai,Normal,Female,Food Grains,180.11,9,81.05,1621,1702.05,09-02-2017,Cash,9.6
+East,Nagercoil,Normal,Male,Fruits & Veggies,271.33,6,81.4,1628,1709.4,12/24/2018,Credit card,7.9
+West,Kanyakumari,Member,Male,Oil & Masala,270.0,9,121.5,2430,2551.5,8/23/2015,Ewallet,9.7
+South,Ooty,Normal,Male,Food Grains,791.33,3,118.7,2374,2492.7,12-09-2018,Credit card,4.9
+West,Dindigul,Member,Female,Bakery,338.33,3,50.75,1015,1065.75,05-06-2015,Ewallet,6.9
+West,Tenkasi,Member,Male,"Eggs, Meat & Fish",247.5,6,74.25,1485,1559.25,12-01-2017,Ewallet,7.6
+West,Virudhunagar,Member,Male,"Eggs, Meat & Fish",150.78,9,67.85,1357,1424.85,11-12-2018,Ewallet,7.5
+West,Karur,Member,Female,Bakery,208.14,7,72.85,1457,1529.85,05-12-2018,Ewallet,6.4
+Central,Kanyakumari,Member,Male,Beverages,264.67,3,39.7,794,833.7,7/28/2017,Cash,6.0
+West,Tirunelveli,Member,Female,Snacks,552.33,3,82.85,1657,1739.85,06-03-2018,Credit card,4.8
+Central,Dindigul,Normal,Male,Oil & Masala,561.5,2,56.15,1123,1179.15,01-03-2017,Credit card,6.4
+East,Cumbum,Normal,Male,Fruits & Veggies,96.56,9,43.45,869,912.45,12/22/2016,Credit card,5.0
+East,Coimbatore,Normal,Female,Fruits & Veggies,547.0,3,82.05,1641,1723.05,09-10-2016,Ewallet,8.4
+Central,Karur,Member,Male,Snacks,254.4,5,63.6,1272,1335.6,06-01-2016,Cash,5.3
+East,Namakkal,Member,Male,Fruits & Veggies,238.33,9,107.25,2145,2252.25,09-09-2015,Credit card,4.4
+South,Namakkal,Normal,Male,Bakery,68.75,8,27.5,550,577.5,3/28/2018,Cash,7.3
+Central,Cumbum,Member,Male,Beverages,461.0,2,46.1,922,968.1,10/15/2016,Ewallet,7.6
+West,Theni,Member,Female,"Eggs, Meat & Fish",817.0,3,122.55,2451,2573.55,4/16/2018,Credit card,9.2
+Central,Salem,Normal,Male,"Eggs, Meat & Fish",1121.5,2,112.15,2243,2355.15,10/17/2015,Cash,7.5
+Central,Vellore,Member,Female,"Eggs, Meat & Fish",198.75,8,79.5,1590,1669.5,09-02-2018,Ewallet,6.1
+East,Vellore,Normal,Male,Food Grains,187.0,6,56.1,1122,1178.1,9/17/2018,Cash,8.8
+East,Ramanadhapuram,Normal,Female,Food Grains,403.67,6,121.1,2422,2543.1,11-02-2018,Credit card,7.2
+Central,Salem,Member,Female,Beverages,103.78,9,46.7,934,980.7,12-08-2017,Credit card,4.5
+South,Madurai,Member,Female,Food Grains,287.25,8,114.9,2298,2412.9,7/29/2018,Ewallet,7.4
+South,Ramanadhapuram,Normal,Male,Snacks,252.0,4,50.4,1008,1058.4,04-12-2017,Ewallet,9.4
+West,Chennai,Member,Male,Oil & Masala,602.5,4,120.5,2410,2530.5,8/31/2018,Ewallet,6.4
+South,Vellore,Member,Male,Food Grains,147.56,9,66.4,1328,1394.4,1/26/2018,Cash,5.8
+East,Krishnagiri,Normal,Female,"Eggs, Meat & Fish",529.0,1,26.45,529,555.45,05-03-2016,Cash,4.9
+West,Karur,Member,Female,Fruits & Veggies,432.5,2,43.25,865,908.25,10/29/2016,Cash,4.9
+West,Dharmapuri,Normal,Female,Bakery,592.0,2,59.2,1184,1243.2,2/13/2018,Ewallet,6.6
+South,Ramanadhapuram,Normal,Male,Snacks,395.67,6,118.7,2374,2492.7,2/20/2016,Credit card,7.6
+East,Theni,Member,Female,"Eggs, Meat & Fish",350.0,4,70.0,1400,1470.0,08-09-2016,Credit card,4.5
+West,Vellore,Member,Female,Food Grains,484.67,3,72.7,1454,1526.7,9/18/2016,Cash,9.6
+Central,Tenkasi,Member,Male,Food Grains,290.0,3,43.5,870,913.5,10/21/2018,Cash,8.5
+East,Ooty,Member,Male,Oil & Masala,594.33,3,89.15,1783,1872.15,11-01-2016,Credit card,7.5
+Central,Tirunelveli,Member,Female,Bakery,149.67,6,44.9,898,942.9,11/28/2015,Credit card,9.0
+South,Perambalur,Normal,Female,Food Grains,181.25,8,72.5,1450,1522.5,03-04-2015,Cash,4.5
+South,Vellore,Member,Female,"Eggs, Meat & Fish",335.71,7,117.5,2350,2467.5,4/26/2016,Cash,6.9
+West,Pudukottai,Normal,Male,Beverages,390.5,4,78.1,1562,1640.1,6/24/2018,Credit card,7.8
+Central,Namakkal,Normal,Female,Oil & Masala,475.0,4,95.0,1900,1995.0,11-11-2017,Ewallet,9.0
+South,Salem,Normal,Male,Snacks,799.5,2,79.95,1599,1678.95,10/18/2015,Cash,8.7
+East,Salem,Normal,Male,Bakery,2091.0,1,104.55,2091,2195.55,6/30/2015,Credit card,5.7
+West,Krishnagiri,Member,Male,Bakery,167.67,9,75.45,1509,1584.45,11-05-2018,Credit card,9.6
+East,Tirunelveli,Normal,Female,Beverages,403.0,2,40.3,806,846.3,12-06-2016,Credit card,4.7
+Central,Namakkal,Normal,Female,Food Grains,92.0,8,36.8,736,772.8,8/17/2018,Credit card,9.3
+East,Coimbatore,Member,Female,"Eggs, Meat & Fish",179.11,9,80.6,1612,1692.6,09-02-2015,Ewallet,9.8
+East,Karur,Member,Male,Snacks,329.5,4,65.9,1318,1383.9,11-02-2016,Credit card,5.1
+East,Tenkasi,Normal,Female,"Eggs, Meat & Fish",151.62,8,60.65,1213,1273.65,11/20/2018,Cash,8.3
+South,Vellore,Member,Male,Food Grains,123.11,9,55.4,1108,1163.4,12-09-2017,Ewallet,4.2
+Central,Karur,Member,Female,Fruits & Veggies,284.4,5,71.1,1422,1493.1,7/20/2016,Credit card,6.4
+West,Vellore,Member,Male,Bakery,132.29,7,46.3,926,972.3,8/15/2017,Ewallet,7.1
+East,Chennai,Member,Male,Snacks,372.0,4,74.4,1488,1562.4,6/20/2017,Cash,7.5
+West,Madurai,Normal,Male,Food Grains,1419.0,1,70.95,1419,1489.95,2/22/2017,Credit card,9.6
+West,Trichy,Normal,Male,Food Grains,533.33,3,80.0,1600,1680.0,05-11-2018,Cash,8.0
+Central,Coimbatore,Normal,Female,Bakery,241.4,5,60.35,1207,1267.35,11/23/2015,Credit card,6.9
+East,Cumbum,Member,Female,"Eggs, Meat & Fish",311.0,3,46.65,933,979.65,04-04-2016,Credit card,8.9
+Central,Chennai,Member,Male,Fruits & Veggies,128.57,7,45.0,900,945.0,12/28/2018,Credit card,9.7
+South,Dharmapuri,Member,Female,Fruits & Veggies,73.33,9,33.0,660,693.0,8/23/2018,Credit card,4.1
+Central,Bodi,Member,Male,Snacks,340.83,6,102.25,2045,2147.25,01-01-2018,Credit card,9.9
+West,Nagercoil,Member,Female,Fruits & Veggies,2344.0,1,117.2,2344,2461.2,4/25/2015,Ewallet,4.5
+Central,Ramanadhapuram,Normal,Female,Food Grains,207.29,7,72.55,1451,1523.55,09-05-2017,Credit card,8.9
+West,Virudhunagar,Member,Female,Bakery,509.0,3,76.35,1527,1603.35,3/26/2016,Credit card,5.7
+South,Namakkal,Normal,Male,Oil & Masala,424.4,5,106.1,2122,2228.1,9/22/2017,Ewallet,4.8
+Central,Krishnagiri,Member,Female,Food Grains,199.75,4,39.95,799,838.95,9/23/2015,Ewallet,6.6
+West,Tirunelveli,Member,Female,Snacks,200.0,5,50.0,1000,1050.0,04-06-2015,Ewallet,7.9
+Central,Perambalur,Member,Male,Food Grains,413.0,5,103.25,2065,2168.25,12-09-2017,Ewallet,6.3
+South,Bodi,Normal,Male,Oil & Masala,102.5,6,30.75,615,645.75,9/18/2018,Ewallet,4.3
+East,Salem,Normal,Female,Oil & Masala,154.67,6,46.4,928,974.4,3/16/2016,Ewallet,7.6
+Central,Coimbatore,Normal,Female,Fruits & Veggies,202.38,8,80.95,1619,1699.95,10-12-2018,Credit card,9.4
+Central,Krishnagiri,Member,Female,Oil & Masala,89.25,8,35.7,714,749.7,9/26/2017,Credit card,6.3
+East,Krishnagiri,Member,Female,Bakery,166.78,9,75.05,1501,1576.05,12/15/2016,Cash,5.3
+Central,Pudukottai,Normal,Female,Snacks,135.0,8,54.0,1080,1134.0,10-08-2016,Credit card,6.7
+South,Dharmapuri,Member,Male,"Eggs, Meat & Fish",495.5,2,49.55,991,1040.55,11/30/2018,Credit card,4.3
+East,Salem,Normal,Male,Beverages,730.0,1,36.5,730,766.5,10-04-2018,Ewallet,8.9
+Central,Perambalur,Member,Male,Fruits & Veggies,537.0,2,53.7,1074,1127.7,6/18/2017,Ewallet,9.0
+Central,Vellore,Member,Female,Food Grains,350.0,2,35.0,700,735.0,8/27/2017,Credit card,7.5
+East,Bodi,Member,Male,Snacks,182.67,3,27.4,548,575.4,03-01-2017,Cash,6.1
+East,Ramanadhapuram,Member,Female,Bakery,154.71,7,54.15,1083,1137.15,7/18/2018,Ewallet,8.8
+Central,Cumbum,Normal,Female,Food Grains,1236.0,2,123.6,2472,2595.6,07-02-2017,Credit card,7.3
+Central,Cumbum,Member,Female,Oil & Masala,1750.0,1,87.5,1750,1837.5,12-09-2017,Credit card,9.0
+East,Dindigul,Member,Male,Snacks,345.5,6,103.65,2073,2176.65,6/21/2015,Cash,7.8
+Central,Theni,Member,Female,Food Grains,116.89,9,52.6,1052,1104.6,10/17/2017,Cash,8.7
+South,Salem,Member,Male,Beverages,775.67,3,116.35,2327,2443.35,12/31/2016,Ewallet,7.6
+East,Viluppuram,Normal,Female,Food Grains,281.17,6,84.35,1687,1771.35,4/21/2017,Cash,6.5
+Central,Virudhunagar,Normal,Male,"Eggs, Meat & Fish",401.67,3,60.25,1205,1265.25,11/19/2017,Credit card,9.7
+West,Perambalur,Normal,Male,Oil & Masala,2357.0,1,117.85,2357,2474.85,08-02-2016,Credit card,7.2
+East,Karur,Normal,Female,Bakery,173.0,5,43.25,865,908.25,8/24/2016,Cash,7.6
+Central,Namakkal,Member,Male,Food Grains,556.75,4,111.35,2227,2338.35,09-11-2017,Cash,5.3
+South,Vellore,Normal,Male,Beverages,160.29,7,56.1,1122,1178.1,11/14/2017,Cash,7.8
+West,Nagercoil,Member,Female,Snacks,226.5,6,67.95,1359,1426.95,03-12-2017,Cash,7.4
+West,Tenkasi,Member,Female,"Eggs, Meat & Fish",318.14,7,111.35,2227,2338.35,09-08-2015,Ewallet,5.1
+West,Perambalur,Normal,Female,Fruits & Veggies,435.4,5,108.85,2177,2285.85,10/30/2018,Cash,4.4
+West,Madurai,Member,Female,Snacks,268.0,4,53.6,1072,1125.6,4/17/2018,Ewallet,7.6
+West,Virudhunagar,Normal,Female,Beverages,194.14,7,67.95,1359,1426.95,8/20/2018,Credit card,8.6
+West,Coimbatore,Member,Male,Fruits & Veggies,286.86,7,100.4,2008,2108.4,3/23/2016,Cash,7.1
+East,Chennai,Normal,Male,Snacks,223.33,6,67.0,1340,1407.0,11/26/2017,Ewallet,5.4
+East,Viluppuram,Normal,Male,Snacks,108.12,8,43.25,865,908.25,12-09-2015,Cash,8.0
+South,Ooty,Normal,Female,Beverages,310.0,4,62.0,1240,1302.0,06-10-2018,Credit card,4.5
+East,Madurai,Normal,Female,Bakery,326.8,5,81.7,1634,1715.7,2/13/2018,Credit card,6.7
+West,Vellore,Normal,Male,Oil & Masala,610.75,4,122.15,2443,2565.15,9/25/2016,Credit card,5.0
+West,Bodi,Member,Male,Oil & Masala,2231.0,1,111.55,2231,2342.55,10/13/2017,Cash,5.1
+West,Vellore,Normal,Female,Food Grains,219.12,8,87.65,1753,1840.65,8/13/2018,Cash,5.2
+West,Nagercoil,Member,Male,Food Grains,1016.0,1,50.8,1016,1066.8,8/18/2018,Ewallet,6.3
+South,Ramanadhapuram,Normal,Female,Snacks,295.8,5,73.95,1479,1552.95,07-03-2016,Credit card,4.3
+West,Tirunelveli,Normal,Female,Fruits & Veggies,414.67,6,124.4,2488,2612.4,12/27/2016,Cash,6.4
+East,Trichy,Normal,Female,Food Grains,223.67,6,67.1,1342,1409.1,12/27/2018,Credit card,7.1
+Central,Vellore,Member,Male,Snacks,210.6,5,52.65,1053,1105.65,12/15/2015,Credit card,6.9
+South,Madurai,Member,Female,Beverages,522.33,3,78.35,1567,1645.35,11/13/2018,Ewallet,6.3
+West,Perambalur,Normal,Female,Food Grains,300.2,5,75.05,1501,1576.05,09-01-2016,Ewallet,9.0
+South,Theni,Member,Female,Bakery,113.75,8,45.5,910,955.5,09-08-2015,Ewallet,4.9
+West,Pudukottai,Member,Female,Snacks,882.5,2,88.25,1765,1853.25,12/26/2017,Ewallet,7.0
+South,Kanyakumari,Member,Female,"Eggs, Meat & Fish",332.33,6,99.7,1994,2093.7,11/25/2016,Credit card,4.4
+West,Vellore,Normal,Female,Food Grains,214.89,9,96.7,1934,2030.7,9/28/2018,Ewallet,4.4
+East,Dindigul,Normal,Male,Snacks,245.25,8,98.1,1962,2060.1,1/28/2018,Ewallet,7.4
+West,Ooty,Member,Female,Snacks,305.25,8,122.1,2442,2564.1,06-07-2017,Ewallet,7.4
+East,Dharmapuri,Member,Female,Snacks,109.75,8,43.9,878,921.9,6/26/2018,Ewallet,9.3
+South,Chennai,Member,Male,Snacks,124.43,7,43.55,871,914.55,12/14/2016,Credit card,7.3
+West,Dharmapuri,Normal,Female,Bakery,239.5,8,95.8,1916,2011.8,11/24/2018,Ewallet,9.8
+East,Tenkasi,Normal,Female,Fruits & Veggies,161.5,6,48.45,969,1017.45,7/16/2018,Credit card,4.3
+East,Tenkasi,Member,Female,Beverages,855.0,2,85.5,1710,1795.5,12/19/2016,Cash,4.6
+East,Namakkal,Member,Male,Oil & Masala,383.0,2,38.3,766,804.3,6/26/2017,Credit card,4.3
+East,Coimbatore,Member,Male,Bakery,175.62,8,70.25,1405,1475.25,7/22/2017,Credit card,5.1
+West,Virudhunagar,Normal,Female,Oil & Masala,2330.0,1,116.5,2330,2446.5,04-08-2015,Ewallet,7.2
+West,Bodi,Normal,Female,Bakery,393.5,6,118.05,2361,2479.05,12/24/2015,Cash,7.9
+West,Namakkal,Member,Male,Oil & Masala,287.83,6,86.35,1727,1813.35,10/28/2017,Cash,4.3
+Central,Dharmapuri,Member,Female,Snacks,342.5,4,68.5,1370,1438.5,01-01-2018,Cash,9.7
+West,Dharmapuri,Member,Female,Fruits & Veggies,426.33,3,63.95,1279,1342.95,09-11-2018,Cash,9.1
+West,Coimbatore,Normal,Female,Beverages,710.67,3,106.6,2132,2238.6,10-06-2018,Credit card,5.8
+West,Vellore,Member,Female,"Eggs, Meat & Fish",829.0,1,41.45,829,870.45,6/28/2016,Cash,4.5
+South,Namakkal,Normal,Male,Snacks,389.0,3,58.35,1167,1225.35,6/26/2016,Credit card,5.0
+East,Viluppuram,Normal,Male,Oil & Masala,407.25,4,81.45,1629,1710.45,7/31/2018,Credit card,4.8
+East,Cumbum,Member,Male,Snacks,109.6,5,27.4,548,575.4,3/13/2017,Credit card,4.7
+South,Salem,Member,Female,Oil & Masala,213.33,3,32.0,640,672.0,3/31/2015,Cash,7.1
+Central,Krishnagiri,Member,Male,Fruits & Veggies,284.67,6,85.4,1708,1793.4,11/19/2017,Ewallet,5.5
+Central,Bodi,Normal,Male,Bakery,460.6,5,115.15,2303,2418.15,07-12-2015,Ewallet,6.1
+West,Madurai,Normal,Male,Bakery,759.67,3,113.95,2279,2392.95,03-08-2018,Cash,9.9
+West,Dharmapuri,Normal,Female,Snacks,333.5,6,100.05,2001,2101.05,7/20/2015,Ewallet,8.1
+West,Viluppuram,Normal,Female,Food Grains,401.0,6,120.3,2406,2526.3,5/20/2018,Ewallet,9.7
+West,Theni,Member,Male,Fruits & Veggies,168.75,8,67.5,1350,1417.5,10/19/2015,Credit card,4.9
+West,Perambalur,Normal,Male,"Eggs, Meat & Fish",345.0,2,34.5,690,724.5,11/24/2017,Credit card,6.3
+East,Dharmapuri,Normal,Female,Fruits & Veggies,2338.0,1,116.9,2338,2454.9,1/15/2017,Cash,7.3
+East,Karur,Member,Male,Food Grains,562.75,4,112.55,2251,2363.55,07-08-2018,Cash,4.5
+West,Tenkasi,Normal,Male,Snacks,170.29,7,59.6,1192,1251.6,04-02-2018,Ewallet,4.0
+Central,Virudhunagar,Normal,Male,Fruits & Veggies,450.33,3,67.55,1351,1418.55,11/18/2017,Credit card,8.0
+Central,Dindigul,Normal,Male,Fruits & Veggies,432.67,3,64.9,1298,1362.9,12/17/2016,Cash,7.9
+South,Chennai,Normal,Male,Snacks,122.6,5,30.65,613,643.65,10/28/2017,Cash,6.5
+West,Dharmapuri,Normal,Female,Bakery,496.4,5,124.1,2482,2606.1,08-11-2015,Cash,6.9
+South,Chennai,Normal,Male,"Eggs, Meat & Fish",172.33,3,25.85,517,542.85,8/16/2018,Cash,6.5
+West,Perambalur,Member,Female,Beverages,165.44,9,74.45,1489,1563.45,06-03-2017,Cash,4.1
+East,Namakkal,Member,Male,Snacks,566.5,4,113.3,2266,2379.3,3/16/2018,Cash,6.0
+East,Viluppuram,Normal,Female,Snacks,358.33,3,53.75,1075,1128.75,9/20/2018,Ewallet,5.1
+East,Dindigul,Member,Female,"Eggs, Meat & Fish",585.0,2,58.5,1170,1228.5,03-01-2017,Credit card,4.6
+West,Tenkasi,Member,Male,Fruits & Veggies,139.56,9,62.8,1256,1318.8,11/15/2017,Credit card,9.7
+Central,Perambalur,Member,Female,Oil & Masala,288.0,4,57.6,1152,1209.6,02-09-2018,Cash,7.6
+East,Dharmapuri,Member,Male,"Eggs, Meat & Fish",467.0,3,70.05,1401,1471.05,09-02-2018,Credit card,8.4
+Central,Viluppuram,Normal,Female,Bakery,127.0,7,44.45,889,933.45,05-11-2018,Credit card,5.9
+East,Theni,Normal,Male,Fruits & Veggies,194.0,8,77.6,1552,1629.6,08-05-2015,Credit card,6.4
+West,Karur,Member,Male,Bakery,418.5,2,41.85,837,878.85,6/23/2017,Cash,5.4
+Central,Namakkal,Member,Male,Snacks,213.0,7,74.55,1491,1565.55,10-03-2018,Cash,4.6
+South,Ramanadhapuram,Member,Female,Beverages,479.2,5,119.8,2396,2515.8,9/23/2018,Credit card,5.1
+West,Chennai,Normal,Female,Beverages,310.8,5,77.7,1554,1631.7,04-12-2015,Credit card,8.8
+Central,Viluppuram,Normal,Female,Bakery,619.0,3,92.85,1857,1949.85,10/22/2018,Cash,8.1
+Central,Krishnagiri,Member,Male,Snacks,228.4,5,57.1,1142,1199.1,4/24/2018,Ewallet,7.3
+East,Namakkal,Normal,Female,Oil & Masala,576.5,2,57.65,1153,1210.65,4/27/2016,Credit card,6.9
+East,Kanyakumari,Normal,Male,Food Grains,464.0,4,92.8,1856,1948.8,10-03-2016,Ewallet,9.5
+South,Perambalur,Normal,Female,Oil & Masala,292.33,6,87.7,1754,1841.7,10/28/2017,Credit card,4.4
+East,Pudukottai,Normal,Male,Oil & Masala,2019.0,1,100.95,2019,2119.95,05-03-2016,Ewallet,5.7
+East,Perambalur,Member,Male,Snacks,452.75,4,90.55,1811,1901.55,5/23/2015,Ewallet,6.1
+East,Cumbum,Normal,Male,Fruits & Veggies,153.17,6,45.95,919,964.95,07-11-2016,Ewallet,8.7
+West,Karur,Member,Male,Fruits & Veggies,195.78,9,88.1,1762,1850.1,09-06-2015,Cash,10.0
+Central,Namakkal,Normal,Female,Bakery,688.5,2,68.85,1377,1445.85,11-04-2017,Ewallet,5.4
+Central,Krishnagiri,Normal,Male,Food Grains,190.14,7,66.55,1331,1397.55,12-02-2015,Ewallet,9.2
+East,Salem,Normal,Female,Bakery,198.83,6,59.65,1193,1252.65,6/20/2018,Ewallet,9.0
+Central,Salem,Normal,Male,Snacks,550.5,2,55.05,1101,1156.05,09-03-2018,Credit card,5.3
+West,Theni,Member,Female,Bakery,140.62,8,56.25,1125,1181.25,4/23/2017,Ewallet,6.4
+Central,Kanyakumari,Normal,Male,Snacks,306.14,7,107.15,2143,2250.15,04-08-2017,Credit card,6.5
+East,Chennai,Normal,Male,"Eggs, Meat & Fish",188.6,5,47.15,943,990.15,11/14/2016,Ewallet,9.9
+East,Bodi,Normal,Female,Bakery,267.8,5,66.95,1339,1405.95,11-01-2016,Ewallet,5.1
+Central,Bodi,Member,Male,Food Grains,231.0,7,80.85,1617,1697.85,7/15/2015,Cash,8.8
+West,Madurai,Member,Male,Snacks,169.22,9,76.15,1523,1599.15,04-08-2015,Credit card,6.0
+South,Tirunelveli,Member,Female,Oil & Masala,273.33,9,123.0,2460,2583.0,12/18/2017,Ewallet,8.4
+West,Nagercoil,Normal,Female,Bakery,120.89,9,54.4,1088,1142.4,07-04-2017,Credit card,6.5
+East,Karur,Normal,Male,Oil & Masala,187.0,6,56.1,1122,1178.1,9/20/2018,Credit card,7.5
+East,Tenkasi,Member,Male,Snacks,235.83,6,70.75,1415,1485.75,9/24/2016,Cash,9.0
+East,Chennai,Normal,Female,Fruits & Veggies,281.0,3,42.15,843,885.15,12/22/2018,Cash,8.8
+West,Cumbum,Normal,Male,Food Grains,557.0,1,27.85,557,584.85,12/13/2015,Cash,9.2
+East,Bodi,Normal,Male,Beverages,310.29,7,108.6,2172,2280.6,9/27/2017,Cash,4.4
+East,Theni,Normal,Male,Oil & Masala,447.5,4,89.5,1790,1879.5,09-01-2016,Cash,8.2
+East,Ooty,Normal,Female,Food Grains,806.0,1,40.3,806,846.3,9/23/2015,Cash,4.8
+West,Madurai,Normal,Female,Snacks,191.75,8,76.7,1534,1610.7,3/18/2015,Cash,6.5
+West,Chennai,Member,Male,Food Grains,219.33,6,65.8,1316,1381.8,02-04-2017,Cash,7.3
+West,Vellore,Normal,Male,Fruits & Veggies,129.5,6,38.85,777,815.85,12-07-2016,Ewallet,6.4
+East,Madurai,Normal,Male,Fruits & Veggies,996.0,2,99.6,1992,2091.6,11/20/2017,Credit card,7.1
+Central,Coimbatore,Normal,Female,Fruits & Veggies,1560.0,1,78.0,1560,1638.0,7/29/2018,Cash,10.0
+West,Tenkasi,Normal,Male,Beverages,483.0,2,48.3,966,1014.3,12-11-2017,Cash,4.8
+South,Virudhunagar,Normal,Male,"Eggs, Meat & Fish",577.25,4,115.45,2309,2424.45,06-11-2016,Credit card,8.1
+Central,Trichy,Member,Female,"Eggs, Meat & Fish",607.5,2,60.75,1215,1275.75,09-08-2015,Ewallet,6.4
+East,Virudhunagar,Member,Male,Oil & Masala,2500.0,1,125.0,2500,2625.0,1/22/2017,Credit card,4.8
+West,Chennai,Member,Female,Beverages,310.43,7,108.65,2173,2281.65,10-07-2017,Credit card,5.0
+East,Dindigul,Member,Male,Beverages,248.12,8,99.25,1985,2084.25,07-09-2018,Cash,9.7
+East,Trichy,Normal,Male,Beverages,189.33,6,56.8,1136,1192.8,12-03-2018,Credit card,9.3
+West,Viluppuram,Normal,Male,Food Grains,605.5,4,121.1,2422,2543.1,11-10-2017,Credit card,9.4
+South,Chennai,Member,Female,Snacks,380.17,6,114.05,2281,2395.05,08-09-2015,Cash,9.9
+South,Nagercoil,Member,Female,Snacks,181.67,3,27.25,545,572.25,10/25/2017,Cash,5.2
+East,Salem,Normal,Female,Snacks,268.88,8,107.55,2151,2258.55,04-05-2017,Cash,6.1
+South,Coimbatore,Member,Male,Beverages,692.0,2,69.2,1384,1453.2,12-10-2018,Cash,8.0
+Central,Kanyakumari,Normal,Female,"Eggs, Meat & Fish",492.4,5,123.1,2462,2585.1,06-01-2015,Credit card,6.9
+East,Pudukottai,Normal,Male,Food Grains,1769.0,1,88.45,1769,1857.45,12-10-2017,Credit card,6.5
+South,Pudukottai,Normal,Male,Food Grains,393.17,6,117.95,2359,2476.95,12/22/2018,Ewallet,6.1
+Central,Cumbum,Member,Female,Snacks,460.5,2,46.05,921,967.05,09-05-2016,Ewallet,7.6
+Central,Kanyakumari,Member,Male,Bakery,448.0,4,89.6,1792,1881.6,09-04-2018,Credit card,7.5
+Central,Salem,Normal,Male,Beverages,150.33,6,45.1,902,947.1,4/18/2016,Ewallet,5.0
+East,Coimbatore,Normal,Male,Fruits & Veggies,299.38,8,119.75,2395,2514.75,12-04-2016,Credit card,6.8
+Central,Salem,Member,Male,Oil & Masala,196.5,8,78.6,1572,1650.6,3/14/2015,Ewallet,7.3
+Central,Ramanadhapuram,Normal,Male,Fruits & Veggies,270.0,6,81.0,1620,1701.0,03-01-2015,Cash,7.4
+West,Perambalur,Member,Female,Snacks,452.75,4,90.55,1811,1901.55,12-12-2015,Ewallet,5.3
+Central,Coimbatore,Normal,Male,Fruits & Veggies,114.0,8,45.6,912,957.6,02-02-2017,Cash,8.5
+East,Salem,Member,Female,"Eggs, Meat & Fish",188.0,8,75.2,1504,1579.2,12-10-2015,Cash,4.2
+Central,Theni,Normal,Female,Snacks,2246.0,1,112.3,2246,2358.3,5/18/2018,Cash,6.1
+West,Viluppuram,Member,Male,"Eggs, Meat & Fish",149.75,4,29.95,599,628.95,12/29/2017,Cash,8.7
+West,Viluppuram,Member,Male,Beverages,411.5,4,82.3,1646,1728.3,12/16/2018,Ewallet,7.4
+East,Theni,Member,Male,"Eggs, Meat & Fish",187.29,7,65.55,1311,1376.55,11/24/2018,Credit card,5.6
+Central,Tirunelveli,Member,Female,Snacks,305.0,7,106.75,2135,2241.75,2/15/2016,Cash,8.2
+Central,Dindigul,Normal,Male,Oil & Masala,146.0,8,58.4,1168,1226.4,12-12-2016,Ewallet,7.4
+Central,Perambalur,Normal,Female,Oil & Masala,473.6,5,118.4,2368,2486.4,7/25/2017,Cash,8.8
+Central,Ooty,Member,Male,Snacks,222.29,7,77.8,1556,1633.8,06-01-2015,Ewallet,8.4
+East,Coimbatore,Member,Female,Bakery,170.88,8,68.35,1367,1435.35,11/20/2018,Ewallet,7.7
+East,Madurai,Normal,Male,Beverages,125.11,9,56.3,1126,1182.3,09-07-2016,Ewallet,6.9
+West,Coimbatore,Normal,Male,Beverages,715.67,3,107.35,2147,2254.35,12/18/2017,Credit card,4.8
+West,Trichy,Normal,Female,Oil & Masala,811.67,3,121.75,2435,2556.75,5/31/2016,Ewallet,5.6
+West,Chennai,Member,Female,"Eggs, Meat & Fish",483.25,4,96.65,1933,2029.65,12/29/2015,Ewallet,6.5
+West,Krishnagiri,Member,Male,Fruits & Veggies,494.0,5,123.5,2470,2593.5,4/27/2018,Credit card,7.6
+South,Viluppuram,Normal,Female,Oil & Masala,1189.0,1,59.45,1189,1248.45,12/14/2016,Credit card,7.1
+East,Coimbatore,Member,Male,Food Grains,79.71,7,27.9,558,585.9,05-03-2015,Ewallet,5.7
+Central,Pudukottai,Normal,Female,Beverages,163.67,9,73.65,1473,1546.65,10/13/2018,Credit card,4.0
+Central,Virudhunagar,Member,Female,Food Grains,280.12,8,112.05,2241,2353.05,05-07-2016,Cash,7.0
+West,Pudukottai,Normal,Male,Oil & Masala,309.4,5,77.35,1547,1624.35,4/19/2017,Cash,5.7
+West,Tirunelveli,Member,Male,Fruits & Veggies,485.25,4,97.05,1941,2038.05,04-12-2017,Credit card,8.4
+Central,Chennai,Normal,Male,Fruits & Veggies,173.14,7,60.6,1212,1272.6,05-03-2017,Credit card,4.1
+East,Dharmapuri,Member,Female,Oil & Masala,257.0,5,64.25,1285,1349.25,9/26/2015,Ewallet,7.5
+West,Salem,Normal,Female,Beverages,285.29,7,99.85,1997,2096.85,05-12-2016,Credit card,9.6
+South,Trichy,Member,Male,Oil & Masala,2350.0,1,117.5,2350,2467.5,3/31/2018,Ewallet,5.0
+East,Namakkal,Normal,Male,Beverages,2020.0,1,101.0,2020,2121.0,04-01-2017,Cash,6.8
+Central,Tenkasi,Normal,Female,Food Grains,299.33,3,44.9,898,942.9,09-03-2017,Credit card,4.5
+East,Vellore,Normal,Female,Beverages,554.5,2,55.45,1109,1164.45,6/28/2017,Ewallet,7.8
+East,Trichy,Normal,Female,Fruits & Veggies,484.0,2,48.4,968,1016.4,12/25/2017,Ewallet,7.3
+Central,Karur,Normal,Male,Beverages,308.57,7,108.0,2160,2268.0,2/16/2018,Cash,6.4
+West,Virudhunagar,Normal,Male,Snacks,598.5,2,59.85,1197,1256.85,8/21/2018,Credit card,7.1
+West,Ramanadhapuram,Member,Male,Beverages,422.5,4,84.5,1690,1774.5,12/30/2018,Cash,9.4
+South,Tenkasi,Normal,Female,Beverages,302.0,2,30.2,604,634.2,8/23/2016,Ewallet,5.2
+West,Dindigul,Member,Male,Food Grains,116.0,6,34.8,696,730.8,10-08-2017,Ewallet,4.1
+South,Karur,Member,Female,Fruits & Veggies,287.38,8,114.95,2299,2413.95,6/13/2016,Credit card,9.2
+South,Kanyakumari,Member,Male,Snacks,427.25,4,85.45,1709,1794.45,11-04-2018,Ewallet,7.5
+Central,Chennai,Member,Female,Oil & Masala,363.6,5,90.9,1818,1908.9,09-09-2015,Credit card,9.3
+East,Dindigul,Normal,Female,Snacks,307.25,4,61.45,1229,1290.45,4/23/2015,Cash,7.6
+West,Perambalur,Normal,Female,"Eggs, Meat & Fish",206.0,3,30.9,618,648.9,12/15/2016,Credit card,8.9
+Central,Perambalur,Normal,Male,Beverages,304.0,5,76.0,1520,1596.0,1/16/2018,Credit card,6.6
+East,Pudukottai,Normal,Male,Food Grains,142.67,9,64.2,1284,1348.2,09-04-2018,Ewallet,8.5
+Central,Perambalur,Member,Male,Snacks,83.25,8,33.3,666,699.3,11/22/2015,Ewallet,9.5
+West,Kanyakumari,Member,Female,Bakery,207.12,8,82.85,1657,1739.85,12-08-2018,Credit card,7.4
+East,Viluppuram,Member,Female,Snacks,134.88,8,53.95,1079,1132.95,11-04-2015,Ewallet,5.1
+East,Kanyakumari,Member,Female,Bakery,233.0,8,93.2,1864,1957.2,3/25/2015,Ewallet,5.6
+West,Bodi,Member,Female,Oil & Masala,97.14,7,34.0,680,714.0,9/13/2016,Ewallet,5.2
+Central,Trichy,Member,Female,Beverages,235.0,8,94.0,1880,1974.0,06-09-2017,Credit card,5.5
+South,Krishnagiri,Normal,Male,Snacks,255.12,8,102.05,2041,2143.05,09-06-2016,Ewallet,5.8
+West,Bodi,Normal,Female,Food Grains,303.25,8,121.3,2426,2547.3,09-04-2018,Credit card,7.3
+East,Ramanadhapuram,Normal,Male,"Eggs, Meat & Fish",328.71,7,115.05,2301,2416.05,07-09-2016,Ewallet,7.5
+Central,Pudukottai,Normal,Male,Snacks,2091.0,1,104.55,2091,2195.55,9/28/2017,Cash,6.6
+West,Nagercoil,Normal,Female,Bakery,382.75,4,76.55,1531,1607.55,12-08-2018,Ewallet,7.7
+East,Tirunelveli,Member,Male,Bakery,400.5,4,80.1,1602,1682.1,11/18/2015,Ewallet,4.5
+Central,Viluppuram,Normal,Male,Bakery,345.4,5,86.35,1727,1813.35,3/17/2015,Credit card,4.5
+East,Nagercoil,Normal,Female,"Eggs, Meat & Fish",125.0,6,37.5,750,787.5,6/22/2015,Credit card,5.0
+Central,Kanyakumari,Member,Male,Food Grains,442.0,4,88.4,1768,1856.4,11-07-2015,Ewallet,7.1
+West,Trichy,Member,Female,Fruits & Veggies,950.0,2,95.0,1900,1995.0,04-03-2015,Cash,5.3
+Central,Ooty,Normal,Male,Oil & Masala,273.83,6,82.15,1643,1725.15,08-01-2018,Ewallet,5.7
+Central,Chennai,Member,Male,Snacks,201.5,8,80.6,1612,1692.6,10/19/2018,Ewallet,6.4
+East,Dindigul,Normal,Male,Bakery,304.5,8,121.8,2436,2557.8,9/16/2018,Cash,8.9
+Central,Chennai,Normal,Male,Snacks,309.14,7,108.2,2164,2272.2,09-05-2017,Credit card,4.1
+West,Ooty,Member,Female,Fruits & Veggies,356.83,6,107.05,2141,2248.05,12/16/2018,Ewallet,7.9
+West,Karur,Member,Male,Bakery,1189.0,2,118.9,2378,2496.9,06-06-2017,Credit card,8.0
+East,Salem,Member,Female,"Eggs, Meat & Fish",349.29,7,122.25,2445,2567.25,04-02-2018,Credit card,8.8
+Central,Theni,Member,Male,Fruits & Veggies,112.6,5,28.15,563,591.15,9/25/2017,Cash,9.6
+West,Karur,Member,Female,"Eggs, Meat & Fish",325.33,6,97.6,1952,2049.6,11/21/2018,Cash,4.1
+Central,Salem,Normal,Female,Fruits & Veggies,248.5,8,99.4,1988,2087.4,11/16/2016,Credit card,4.9
+West,Coimbatore,Member,Female,Fruits & Veggies,237.38,8,94.95,1899,1993.95,9/16/2018,Ewallet,9.3
+Central,Madurai,Normal,Male,Bakery,280.33,3,42.05,841,883.05,03-04-2018,Credit card,6.8
+South,Pudukottai,Member,Male,Oil & Masala,134.29,7,47.0,940,987.0,2/16/2017,Ewallet,7.4
+Central,Viluppuram,Normal,Male,Snacks,1292.0,1,64.6,1292,1356.6,11/22/2016,Ewallet,8.0
+South,Madurai,Member,Female,Food Grains,790.0,1,39.5,790,829.5,4/16/2017,Cash,8.1
+West,Virudhunagar,Member,Male,Beverages,326.0,7,114.1,2282,2396.1,10/18/2015,Ewallet,9.6
+East,Tirunelveli,Normal,Female,Bakery,176.67,9,79.5,1590,1669.5,8/26/2015,Ewallet,10.0
+South,Cumbum,Normal,Female,Food Grains,169.71,7,59.4,1188,1247.4,12/22/2018,Credit card,8.3
+West,Chennai,Member,Male,Food Grains,228.6,5,57.15,1143,1200.15,07-03-2018,Cash,5.7
+Central,Pudukottai,Normal,Female,Bakery,259.75,8,103.9,2078,2181.9,10/23/2018,Ewallet,9.3
+West,Tirunelveli,Member,Male,Oil & Masala,606.0,2,60.6,1212,1272.6,04-11-2016,Ewallet,4.3
+Central,Nagercoil,Member,Male,Fruits & Veggies,193.11,9,86.9,1738,1824.9,3/30/2015,Cash,5.4
+Central,Dharmapuri,Member,Female,Oil & Masala,110.33,6,33.1,662,695.1,10-01-2017,Credit card,9.4
+West,Pudukottai,Member,Female,Fruits & Veggies,230.0,9,103.5,2070,2173.5,09-06-2015,Cash,5.5
+East,Karur,Normal,Female,"Eggs, Meat & Fish",563.0,2,56.3,1126,1182.3,08-04-2015,Cash,5.3
+Central,Dharmapuri,Member,Male,Fruits & Veggies,344.33,3,51.65,1033,1084.65,6/29/2018,Ewallet,4.8
+West,Bodi,Member,Male,Snacks,169.62,8,67.85,1357,1424.85,11/16/2015,Ewallet,9.2
+West,Krishnagiri,Normal,Female,Bakery,1825.0,1,91.25,1825,1916.25,11-10-2018,Credit card,7.0
+West,Chennai,Normal,Female,Beverages,187.57,7,65.65,1313,1378.65,10/22/2018,Ewallet,8.0
+West,Dindigul,Member,Female,Bakery,190.14,7,66.55,1331,1397.55,5/22/2018,Ewallet,5.4
+West,Karur,Normal,Male,Snacks,2171.0,1,108.55,2171,2279.55,10/31/2016,Cash,8.5
+Central,Madurai,Member,Female,Snacks,250.33,9,112.65,2253,2365.65,08-01-2018,Ewallet,8.6
+West,Perambalur,Normal,Male,Fruits & Veggies,98.0,8,39.2,784,823.2,9/20/2015,Credit card,5.9
+Central,Tirunelveli,Normal,Male,Beverages,517.25,4,103.45,2069,2172.45,09-02-2017,Cash,6.5
+West,Ramanadhapuram,Normal,Female,Beverages,198.0,5,49.5,990,1039.5,2/13/2018,Credit card,5.3
+East,Madurai,Member,Male,Food Grains,944.0,2,94.4,1888,1982.4,3/24/2018,Cash,9.9
+East,Cumbum,Member,Female,Beverages,231.44,9,104.15,2083,2187.15,6/16/2015,Ewallet,7.9
+West,Krishnagiri,Member,Male,Food Grains,158.83,6,47.65,953,1000.65,12/24/2018,Cash,9.6
